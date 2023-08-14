@@ -1,5 +1,5 @@
 import { Component,OnInit } from '@angular/core';
-import books from '../assets/books.json';
+import* as books from '../assets/books.json';
 
 @Component({
   selector: 'app-root',
@@ -9,6 +9,7 @@ import books from '../assets/books.json';
 export class AppComponent implements OnInit{
   title = 'MyBookStore';
   data: any = books;
+  author: any;
 
   ngOnInit() {
     console.log('Data', this.data);
