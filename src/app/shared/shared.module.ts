@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { HeaderComponent } from './header/header.component';
+import { HeaderComponent } from './components/header/header.component';
 
 
 
@@ -10,6 +10,11 @@ import { HeaderComponent } from './header/header.component';
   ],
   imports: [
     CommonModule
+  ],
+
+  exports:[
+    HeaderComponent // lazm a3mel exprot 3ashan ashof el component da bara el module.
   ]
+   
 })
 export class SharedModule { }
