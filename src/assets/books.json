@@ -1,1002 +1,902 @@
 [
   {
-    "author": "Chinua Achebe",
-    "country": "Nigeria",
-    "imageLink": "images/things-fall-apart.jpg",
-    "language": "English",
-    "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n",
-    "pages": 209,
-    "title": "Things Fall Apart",
-    "year": 1958
-  },
-  {
-    "author": "Hans Christian Andersen",
-    "country": "Denmark",
-    "imageLink": "images/fairy-tales.jpg",
-    "language": "Danish",
-    "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection.\n",
-    "pages": 784,
-    "title": "Fairy tales",
-    "year": 1836
-  },
-  {
-    "author": "Dante Alighieri",
-    "country": "Italy",
-    "imageLink": "images/the-divine-comedy.jpg",
-    "language": "Italian",
-    "link": "https://en.wikipedia.org/wiki/Divine_Comedy\n",
-    "pages": 928,
-    "title": "The Divine Comedy",
-    "year": 1315
-  },
-  {
-    "author": "Unknown",
-    "country": "Sumer and Akkadian Empire",
-    "imageLink": "images/the-epic-of-gilgamesh.jpg",
-    "language": "Akkadian",
-    "link": "https://en.wikipedia.org/wiki/Epic_of_Gilgamesh\n",
-    "pages": 160,
-    "title": "The Epic Of Gilgamesh",
-    "year": -1700
-  },
-  {
-    "author": "Unknown",
-    "country": "Achaemenid Empire",
-    "imageLink": "images/the-book-of-job.jpg",
-    "language": "Hebrew",
-    "link": "https://en.wikipedia.org/wiki/Book_of_Job\n",
-    "pages": 176,
-    "title": "The Book Of Job",
-    "year": -600
-  },
-  {
-    "author": "Unknown",
-    "country": "India/Iran/Iraq/Egypt/Tajikistan",
-    "imageLink": "images/one-thousand-and-one-nights.jpg",
-    "language": "Arabic",
-    "link": "https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights\n",
-    "pages": 288,
-    "title": "One Thousand and One Nights",
-    "year": 1200
-  },
-  {
-    "author": "Unknown",
-    "country": "Iceland",
-    "imageLink": "images/njals-saga.jpg",
-    "language": "Old Norse",
-    "link": "https://en.wikipedia.org/wiki/Nj%C3%A1ls_saga\n",
-    "pages": 384,
-    "title": "Nj\u00e1l's Saga",
-    "year": 1350
-  },
-  {
-    "author": "Jane Austen",
-    "country": "United Kingdom",
-    "imageLink": "images/pride-and-prejudice.jpg",
-    "language": "English",
-    "link": "https://en.wikipedia.org/wiki/Pride_and_Prejudice\n",
-    "pages": 226,
-    "title": "Pride and Prejudice",
-    "year": 1813
-  },
-  {
-    "author": "Honor\u00e9 de Balzac",
-    "country": "France",
-    "imageLink": "images/le-pere-goriot.jpg",
-    "language": "French",
-    "link": "https://en.wikipedia.org/wiki/Le_P%C3%A8re_Goriot\n",
-    "pages": 443,
-    "title": "Le P\u00e8re Goriot",
-    "year": 1835
-  },
-  {
-    "author": "Samuel Beckett",
-    "country": "Republic of Ireland",
-    "imageLink": "images/molloy-malone-dies-the-unnamable.jpg",
-    "language": "French, English",
-    "link": "https://en.wikipedia.org/wiki/Molloy_(novel)\n",
-    "pages": 256,
-    "title": "Molloy, Malone Dies, The Unnamable, the trilogy",
-    "year": 1952
-  },
-  {
-    "author": "Giovanni Boccaccio",
-    "country": "Italy",
-    "imageLink": "images/the-decameron.jpg",
-    "language": "Italian",
-    "link": "https://en.wikipedia.org/wiki/The_Decameron\n",
-    "pages": 1024,
-    "title": "The Decameron",
-    "year": 1351
-  },
-  {
-    "author": "Jorge Luis Borges",
-    "country": "Argentina",
-    "imageLink": "images/ficciones.jpg",
-    "language": "Spanish",
-    "link": "https://en.wikipedia.org/wiki/Ficciones\n",
-    "pages": 224,
-    "title": "Ficciones",
-    "year": 1965
-  },
-  {
-    "author": "Emily Bront\u00eb",
-    "country": "United Kingdom",
-    "imageLink": "images/wuthering-heights.jpg",
-    "language": "English",
-    "link": "https://en.wikipedia.org/wiki/Wuthering_Heights\n",
-    "pages": 342,
-    "title": "Wuthering Heights",
-    "year": 1847
-  },
-  {
-    "author": "Albert Camus",
-    "country": "Algeria, French Empire",
-    "imageLink": "images/l-etranger.jpg",
-    "language": "French",
-    "link": "https://en.wikipedia.org/wiki/The_Stranger_(novel)\n",
-    "pages": 185,
-    "title": "The Stranger",
-    "year": 1942
-  },
-  {
-    "author": "Paul Celan",
-    "country": "Romania, France",
-    "imageLink": "images/poems-paul-celan.jpg",
-    "language": "German",
-    "link": "\n",
-    "pages": 320,
-    "title": "Poems",
-    "year": 1952
-  },
-  {
-    "author": "Louis-Ferdinand C\u00e9line",
-    "country": "France",
-    "imageLink": "images/voyage-au-bout-de-la-nuit.jpg",
-    "language": "French",
-    "link": "https://en.wikipedia.org/wiki/Journey_to_the_End_of_the_Night\n",
-    "pages": 505,
-    "title": "Journey to the End of the Night",
-    "year": 1932
-  },
-  {
-    "author": "Miguel de Cervantes",
-    "country": "Spain",
-    "imageLink": "images/don-quijote-de-la-mancha.jpg",
-    "language": "Spanish",
-    "link": "https://en.wikipedia.org/wiki/Don_Quixote\n",
-    "pages": 1056,
-    "title": "Don Quijote De La Mancha",
-    "year": 1610
-  },
-  {
-    "author": "Geoffrey Chaucer",
-    "country": "England",
-    "imageLink": "images/the-canterbury-tales.jpg",
-    "language": "English",
-    "link": "https://en.wikipedia.org/wiki/The_Canterbury_Tales\n",
-    "pages": 544,
-    "title": "The Canterbury Tales",
-    "year": 1450
-  },
-  {
-    "author": "Anton Chekhov",
-    "country": "Russia",
-    "imageLink": "images/stories-of-anton-chekhov.jpg",
-    "language": "Russian",
-    "link": "https://en.wikipedia.org/wiki/List_of_short_stories_by_Anton_Chekhov\n",
-    "pages": 194,
-    "title": "Stories",
-    "year": 1886
-  },
-  {
-    "author": "Joseph Conrad",
-    "country": "United Kingdom",
-    "imageLink": "images/nostromo.jpg",
-    "language": "English",
-    "link": "https://en.wikipedia.org/wiki/Nostromo\n",
-    "pages": 320,
-    "title": "Nostromo",
-    "year": 1904
-  },
-  {
-    "author": "Charles Dickens",
-    "country": "United Kingdom",
-    "imageLink": "images/great-expectations.jpg",
-    "language": "English",
-    "link": "https://en.wikipedia.org/wiki/Great_Expectations\n",
-    "pages": 194,
-    "title": "Great Expectations",
-    "year": 1861
-  },
-  {
-    "author": "Denis Diderot",
-    "country": "France",
-    "imageLink": "images/jacques-the-fatalist.jpg",
-    "language": "French",
-    "link": "https://en.wikipedia.org/wiki/Jacques_the_Fatalist\n",
-    "pages": 596,
-    "title": "Jacques the Fatalist",
-    "year": 1796
-  },
-  {
-    "author": "Alfred D\u00f6blin",
-    "country": "Germany",
-    "imageLink": "images/berlin-alexanderplatz.jpg",
-    "language": "German",
-    "link": "https://en.wikipedia.org/wiki/Berlin_Alexanderplatz\n",
-    "pages": 600,
-    "title": "Berlin Alexanderplatz",
-    "year": 1929
-  },
-  {
-    "author": "Fyodor Dostoevsky",
-    "country": "Russia",
-    "imageLink": "images/crime-and-punishment.jpg",
-    "language": "Russian",
-    "link": "https://en.wikipedia.org/wiki/Crime_and_Punishment\n",
-    "pages": 551,
-    "title": "Crime and Punishment",
-    "year": 1866
-  },
-  {
-    "author": "Fyodor Dostoevsky",
-    "country": "Russia",
-    "imageLink": "images/the-idiot.jpg",
-    "language": "Russian",
-    "link": "https://en.wikipedia.org/wiki/The_Idiot\n",
-    "pages": 656,
-    "title": "The Idiot",
-    "year": 1869
-  },
-  {
-    "author": "Fyodor Dostoevsky",
-    "country": "Russia",
-    "imageLink": "images/the-possessed.jpg",
-    "language": "Russian",
-    "link": "https://en.wikipedia.org/wiki/Demons_(Dostoyevsky_novel)\n",
-    "pages": 768,
-    "title": "The Possessed",
-    "year": 1872
-  },
-  {
-    "author": "Fyodor Dostoevsky",
-    "country": "Russia",
-    "imageLink": "images/the-brothers-karamazov.jpg",
-    "language": "Russian",
-    "link": "https://en.wikipedia.org/wiki/The_Brothers_Karamazov\n",
-    "pages": 824,
-    "title": "The Brothers Karamazov",
-    "year": 1880
-  },
-  {
-    "author": "George Eliot",
-    "country": "United Kingdom",
-    "imageLink": "images/middlemarch.jpg",
-    "language": "English",
-    "link": "https://en.wikipedia.org/wiki/Middlemarch\n",
-    "pages": 800,
-    "title": "Middlemarch",
-    "year": 1871
-  },
-  {
-    "author": "Ralph Ellison",
-    "country": "United States",
-    "imageLink": "images/invisible-man.jpg",
-    "language": "English",
-    "link": "https://en.wikipedia.org/wiki/Invisible_Man\n",
-    "pages": 581,
-    "title": "Invisible Man",
-    "year": 1952
-  },
-  {
-    "author": "Euripides",
-    "country": "Greece",
-    "imageLink": "images/medea.jpg",
-    "language": "Greek",
-    "link": "https://en.wikipedia.org/wiki/Medea_(play)\n",
-    "pages": 104,
-    "title": "Medea",
-    "year": -431
-  },
-  {
-    "author": "William Faulkner",
-    "country": "United States",
-    "imageLink": "images/absalom-absalom.jpg",
-    "language": "English",
-    "link": "https://en.wikipedia.org/wiki/Absalom,_Absalom!\n",
-    "pages": 313,
-    "title": "Absalom, Absalom!",
-    "year": 1936
-  },
-  {
-    "author": "William Faulkner",
-    "country": "United States",
-    "imageLink": "images/the-sound-and-the-fury.jpg",
-    "language": "English",
-    "link": "https://en.wikipedia.org/wiki/The_Sound_and_the_Fury\n",
-    "pages": 326,
-    "title": "The Sound and the Fury",
-    "year": 1929
-  },
-  {
-    "author": "Gustave Flaubert",
-    "country": "France",
-    "imageLink": "images/madame-bovary.jpg",
-    "language": "French",
-    "link": "https://en.wikipedia.org/wiki/Madame_Bovary\n",
-    "pages": 528,
-    "title": "Madame Bovary",
-    "year": 1857
-  },
-  {
-    "author": "Gustave Flaubert",
-    "country": "France",
-    "imageLink": "images/l-education-sentimentale.jpg",
-    "language": "French",
-    "link": "https://en.wikipedia.org/wiki/Sentimental_Education\n",
-    "pages": 606,
-    "title": "Sentimental Education",
-    "year": 1869
-  },
-  {
-    "author": "Federico Garc\u00eda Lorca",
-    "country": "Spain",
-    "imageLink": "images/gypsy-ballads.jpg",
-    "language": "Spanish",
-    "link": "https://en.wikipedia.org/wiki/Gypsy_Ballads\n",
-    "pages": 218,
-    "title": "Gypsy Ballads",
-    "year": 1928
-  },
-  {
-    "author": "Gabriel Garc\u00eda M\u00e1rquez",
-    "country": "Colombia",
-    "imageLink": "images/one-hundred-years-of-solitude.jpg",
-    "language": "Spanish",
-    "link": "https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude\n",
-    "pages": 417,
-    "title": "One Hundred Years of Solitude",
-    "year": 1967
-  },
-  {
-    "author": "Gabriel Garc\u00eda M\u00e1rquez",
-    "country": "Colombia",
-    "imageLink": "images/love-in-the-time-of-cholera.jpg",
-    "language": "Spanish",
-    "link": "https://en.wikipedia.org/wiki/Love_in_the_Time_of_Cholera\n",
-    "pages": 368,
-    "title": "Love in the Time of Cholera",
-    "year": 1985
-  },
-  {
-    "author": "Johann Wolfgang von Goethe",
-    "country": "Saxe-Weimar",
-    "imageLink": "images/faust.jpg",
-    "language": "German",
-    "link": "https://en.wikipedia.org/wiki/Goethe%27s_Faust\n",
-    "pages": 158,
-    "title": "Faust",
-    "year": 1832
-  },
-  {
-    "author": "Nikolai Gogol",
-    "country": "Russia",
-    "imageLink": "images/dead-souls.jpg",
-    "language": "Russian",
-    "link": "https://en.wikipedia.org/wiki/Dead_Souls\n",
-    "pages": 432,
-    "title": "Dead Souls",
-    "year": 1842
-  },
-  {
-    "author": "G\u00fcnter Grass",
-    "country": "Germany",
-    "imageLink": "images/the-tin-drum.jpg",
-    "language": "German",
-    "link": "https://en.wikipedia.org/wiki/The_Tin_Drum\n",
-    "pages": 600,
-    "title": "The Tin Drum",
-    "year": 1959
-  },
-  {
-    "author": "Jo\u00e3o Guimar\u00e3es Rosa",
-    "country": "Brazil",
-    "imageLink": "images/the-devil-to-pay-in-the-backlands.jpg",
-    "language": "Portuguese",
-    "link": "https://en.wikipedia.org/wiki/The_Devil_to_Pay_in_the_Backlands\n",
-    "pages": 494,
-    "title": "The Devil to Pay in the Backlands",
-    "year": 1956
-  },
-  {
-    "author": "Knut Hamsun",
-    "country": "Norway",
-    "imageLink": "images/hunger.jpg",
-    "language": "Norwegian",
-    "link": "https://en.wikipedia.org/wiki/Hunger_(Hamsun_novel)\n",
-    "pages": 176,
-    "title": "Hunger",
-    "year": 1890
-  },
-  {
-    "author": "Ernest Hemingway",
-    "country": "United States",
-    "imageLink": "images/the-old-man-and-the-sea.jpg",
-    "language": "English",
-    "link": "https://en.wikipedia.org/wiki/The_Old_Man_and_the_Sea\n",
-    "pages": 128,
-    "title": "The Old Man and the Sea",
-    "year": 1952
-  },
-  {
-    "author": "Homer",
-    "country": "Greece",
-    "imageLink": "images/the-iliad-of-homer.jpg",
-    "language": "Greek",
-    "link": "https://en.wikipedia.org/wiki/Iliad\n",
-    "pages": 608,
-    "title": "Iliad",
-    "year": -735
-  },
-  {
-    "author": "Homer",
-    "country": "Greece",
-    "imageLink": "images/the-odyssey-of-homer.jpg",
-    "language": "Greek",
-    "link": "https://en.wikipedia.org/wiki/Odyssey\n",
-    "pages": 374,
-    "title": "Odyssey",
-    "year": -800
-  },
-  {
-    "author": "Henrik Ibsen",
-    "country": "Norway",
-    "imageLink": "images/a-Dolls-house.jpg",
-    "language": "Norwegian",
-    "link": "https://en.wikipedia.org/wiki/A_Doll%27s_House\n",
-    "pages": 68,
-    "title": "A Doll's House",
-    "year": 1879
-  },
-  {
-    "author": "James Joyce",
-    "country": "Irish Free State",
-    "imageLink": "images/ulysses.jpg",
-    "language": "English",
-    "link": "https://en.wikipedia.org/wiki/Ulysses_(novel)\n",
-    "pages": 228,
-    "title": "Ulysses",
-    "year": 1922
-  },
-  {
-    "author": "Franz Kafka",
-    "country": "Czechoslovakia",
-    "imageLink": "images/stories-of-franz-kafka.jpg",
-    "language": "German",
-    "link": "https://en.wikipedia.org/wiki/Franz_Kafka_bibliography#Short_stories\n",
-    "pages": 488,
-    "title": "Stories",
-    "year": 1924
-  },
-  {
-    "author": "Franz Kafka",
-    "country": "Czechoslovakia",
-    "imageLink": "images/the-trial.jpg",
-    "language": "German",
-    "link": "https://en.wikipedia.org/wiki/The_Trial\n",
-    "pages": 160,
-    "title": "The Trial",
-    "year": 1925
-  },
-  {
-    "author": "Franz Kafka",
-    "country": "Czechoslovakia",
-    "imageLink": "images/the-castle.jpg",
-    "language": "German",
-    "link": "https://en.wikipedia.org/wiki/The_Castle_(novel)\n",
-    "pages": 352,
-    "title": "The Castle",
-    "year": 1926
-  },
-  {
-    "author": "K\u0101lid\u0101sa",
-    "country": "India",
-    "imageLink": "images/the-recognition-of-shakuntala.jpg",
-    "language": "Sanskrit",
-    "link": "https://en.wikipedia.org/wiki/Abhij%C3%B1%C4%81na%C5%9B%C4%81kuntalam\n",
-    "pages": 147,
-    "title": "The recognition of Shakuntala",
-    "year": 150
-  },
-  {
-    "author": "Yasunari Kawabata",
-    "country": "Japan",
-    "imageLink": "images/the-sound-of-the-mountain.jpg",
-    "language": "Japanese",
-    "link": "https://en.wikipedia.org/wiki/The_Sound_of_the_Mountain\n",
-    "pages": 288,
-    "title": "The Sound of the Mountain",
-    "year": 1954
-  },
-  {
-    "author": "Nikos Kazantzakis",
-    "country": "Greece",
-    "imageLink": "images/zorba-the-greek.jpg",
-    "language": "Greek",
-    "link": "https://en.wikipedia.org/wiki/Zorba_the_Greek\n",
-    "pages": 368,
-    "title": "Zorba the Greek",
-    "year": 1946
-  },
-  {
-    "author": "D. H. Lawrence",
-    "country": "United Kingdom",
-    "imageLink": "images/sons-and-lovers.jpg",
-    "language": "English",
-    "link": "https://en.wikipedia.org/wiki/Sons_and_Lovers\n",
-    "pages": 432,
-    "title": "Sons and Lovers",
-    "year": 1913
-  },
-  {
-    "author": "Halld\u00f3r Laxness",
-    "country": "Iceland",
-    "imageLink": "images/independent-people.jpg",
-    "language": "Icelandic",
-    "link": "https://en.wikipedia.org/wiki/Independent_People\n",
-    "pages": 470,
-    "title": "Independent People",
-    "year": 1934
-  },
-  {
-    "author": "Giacomo Leopardi",
-    "country": "Italy",
-    "imageLink": "images/poems-giacomo-leopardi.jpg",
-    "language": "Italian",
-    "link": "\n",
-    "pages": 184,
-    "title": "Poems",
-    "year": 1818
-  },
-  {
-    "author": "Doris Lessing",
-    "country": "United Kingdom",
-    "imageLink": "images/the-golden-notebook.jpg",
-    "language": "English",
-    "link": "https://en.wikipedia.org/wiki/The_Golden_Notebook\n",
-    "pages": 688,
-    "title": "The Golden Notebook",
-    "year": 1962
-  },
-  {
-    "author": "Astrid Lindgren",
-    "country": "Sweden",
-    "imageLink": "images/pippi-longstocking.jpg",
-    "language": "Swedish",
-    "link": "https://en.wikipedia.org/wiki/Pippi_Longstocking\n",
-    "pages": 160,
-    "title": "Pippi Longstocking",
-    "year": 1945
-  },
-  {
-    "author": "Lu Xun",
-    "country": "China",
-    "imageLink": "images/diary-of-a-madman.jpg",
-    "language": "Chinese",
-    "link": "https://en.wikipedia.org/wiki/A_Madman%27s_Diary\n",
-    "pages": 389,
-    "title": "Diary of a Madman",
-    "year": 1918
-  },
-  {
-    "author": "Naguib Mahfouz",
-    "country": "Egypt",
-    "imageLink": "images/children-of-gebelawi.jpg",
-    "language": "Arabic",
-    "link": "https://en.wikipedia.org/wiki/Children_of_Gebelawi\n",
-    "pages": 355,
-    "title": "Children of Gebelawi",
-    "year": 1959
-  },
-  {
-    "author": "Thomas Mann",
-    "country": "Germany",
-    "imageLink": "images/buddenbrooks.jpg",
-    "language": "German",
-    "link": "https://en.wikipedia.org/wiki/Buddenbrooks\n",
-    "pages": 736,
-    "title": "Buddenbrooks",
-    "year": 1901
-  },
-  {
-    "author": "Thomas Mann",
-    "country": "Germany",
-    "imageLink": "images/the-magic-mountain.jpg",
-    "language": "German",
-    "link": "https://en.wikipedia.org/wiki/The_Magic_Mountain\n",
-    "pages": 720,
-    "title": "The Magic Mountain",
-    "year": 1924
-  },
-  {
-    "author": "Herman Melville",
-    "country": "United States",
-    "imageLink": "images/moby-dick.jpg",
-    "language": "English",
-    "link": "https://en.wikipedia.org/wiki/Moby-Dick\n",
-    "pages": 378,
-    "title": "Moby Dick",
-    "year": 1851
-  },
-  {
-    "author": "Michel de Montaigne",
-    "country": "France",
-    "imageLink": "images/essais.jpg",
-    "language": "French",
-    "link": "https://en.wikipedia.org/wiki/Essays_(Montaigne)\n",
-    "pages": 404,
-    "title": "Essays",
-    "year": 1595
-  },
-  {
-    "author": "Elsa Morante",
-    "country": "Italy",
-    "imageLink": "images/history.jpg",
-    "language": "Italian",
-    "link": "https://en.wikipedia.org/wiki/History_(novel)\n",
-    "pages": 600,
-    "title": "History",
-    "year": 1974
-  },
-  {
-    "author": "Toni Morrison",
-    "country": "United States",
-    "imageLink": "images/beloved.jpg",
-    "language": "English",
-    "link": "https://en.wikipedia.org/wiki/Beloved_(novel)\n",
-    "pages": 321,
-    "title": "Beloved",
-    "year": 1987
-  },
-  {
-    "author": "Murasaki Shikibu",
-    "country": "Japan",
-    "imageLink": "images/the-tale-of-genji.jpg",
-    "language": "Japanese",
-    "link": "https://en.wikipedia.org/wiki/The_Tale_of_Genji\n",
-    "pages": 1360,
-    "title": "The Tale of Genji",
-    "year": 1006
-  },
-  {
-    "author": "Robert Musil",
-    "country": "Austria",
-    "imageLink": "images/the-man-without-qualities.jpg",
-    "language": "German",
-    "link": "https://en.wikipedia.org/wiki/The_Man_Without_Qualities\n",
-    "pages": 365,
-    "title": "The Man Without Qualities",
-    "year": 1931
-  },
-  {
-    "author": "Vladimir Nabokov",
-    "country": "Russia/United States",
-    "imageLink": "images/lolita.jpg",
-    "language": "English",
-    "link": "https://en.wikipedia.org/wiki/Lolita\n",
-    "pages": 317,
-    "title": "Lolita",
-    "year": 1955
-  },
-  {
-    "author": "George Orwell",
-    "country": "United Kingdom",
-    "imageLink": "images/nineteen-eighty-four.jpg",
-    "language": "English",
-    "link": "https://en.wikipedia.org/wiki/Nineteen_Eighty-Four\n",
-    "pages": 272,
-    "title": "Nineteen Eighty-Four",
-    "year": 1949
-  },
-  {
-    "author": "Ovid",
-    "country": "Roman Empire",
-    "imageLink": "images/the-metamorphoses-of-ovid.jpg",
-    "language": "Classical Latin",
-    "link": "https://en.wikipedia.org/wiki/Metamorphoses\n",
-    "pages": 576,
-    "title": "Metamorphoses",
-    "year": 100
-  },
-  {
-    "author": "Fernando Pessoa",
-    "country": "Portugal",
-    "imageLink": "images/the-book-of-disquiet.jpg",
-    "language": "Portuguese",
-    "link": "https://en.wikipedia.org/wiki/The_Book_of_Disquiet\n",
-    "pages": 272,
-    "title": "The Book of Disquiet",
-    "year": 1928
-  },
-  {
-    "author": "Edgar Allan Poe",
-    "country": "United States",
-    "imageLink": "images/tales-and-poems-of-edgar-allan-poe.jpg",
-    "language": "English",
-    "link": "https://en.wikipedia.org/wiki/Edgar_Allan_Poe_bibliography#Tales\n",
-    "pages": 842,
-    "title": "Tales",
-    "year": 1950
-  },
-  {
-    "author": "Marcel Proust",
-    "country": "France",
-    "imageLink": "images/a-la-recherche-du-temps-perdu.jpg",
-    "language": "French",
-    "link": "https://en.wikipedia.org/wiki/In_Search_of_Lost_Time\n",
-    "pages": 2408,
-    "title": "In Search of Lost Time",
-    "year": 1920
-  },
-  {
-    "author": "Fran\u00e7ois Rabelais",
-    "country": "France",
-    "imageLink": "images/gargantua-and-pantagruel.jpg",
-    "language": "French",
-    "link": "https://en.wikipedia.org/wiki/Gargantua_and_Pantagruel\n",
-    "pages": 623,
-    "title": "Gargantua and Pantagruel",
-    "year": 1533
-  },
-  {
-    "author": "Juan Rulfo",
-    "country": "Mexico",
-    "imageLink": "images/pedro-paramo.jpg",
-    "language": "Spanish",
-    "link": "https://en.wikipedia.org/wiki/Pedro_P%C3%A1ramo\n",
-    "pages": 124,
-    "title": "Pedro P\u00e1ramo",
-    "year": 1955
-  },
-  {
-    "author": "Rumi",
-    "country": "Sultanate of Rum",
-    "imageLink": "images/the-masnavi.jpg",
-    "language": "Persian",
-    "link": "https://en.wikipedia.org/wiki/Masnavi\n",
-    "pages": 438,
-    "title": "The Masnavi",
-    "year": 1236
-  },
-  {
-    "author": "Salman Rushdie",
-    "country": "United Kingdom, India",
-    "imageLink": "images/midnights-children.jpg",
-    "language": "English",
-    "link": "https://en.wikipedia.org/wiki/Midnight%27s_Children\n",
-    "pages": 536,
-    "title": "Midnight's Children",
-    "year": 1981
-  },
-  {
-    "author": "Saadi",
-    "country": "Persia, Persian Empire",
-    "imageLink": "images/bostan.jpg",
-    "language": "Persian",
-    "link": "https://en.wikipedia.org/wiki/Bustan_(book)\n",
-    "pages": 298,
-    "title": "Bostan",
-    "year": 1257
-  },
-  {
-    "author": "Tayeb Salih",
-    "country": "Sudan",
-    "imageLink": "images/season-of-migration-to-the-north.jpg",
-    "language": "Arabic",
-    "link": "https://en.wikipedia.org/wiki/Season_of_Migration_to_the_North\n",
-    "pages": 139,
-    "title": "Season of Migration to the North",
-    "year": 1966
-  },
-  {
-    "author": "Jos\u00e9 Saramago",
-    "country": "Portugal",
-    "imageLink": "images/blindness.jpg",
-    "language": "Portuguese",
-    "link": "https://en.wikipedia.org/wiki/Blindness_(novel)\n",
-    "pages": 352,
-    "title": "Blindness",
-    "year": 1995
-  },
-  {
-    "author": "William Shakespeare",
-    "country": "England",
-    "imageLink": "images/hamlet.jpg",
-    "language": "English",
-    "link": "https://en.wikipedia.org/wiki/Hamlet\n",
-    "pages": 432,
-    "title": "Hamlet",
-    "year": 1603
-  },
-  {
-    "author": "William Shakespeare",
-    "country": "England",
-    "imageLink": "images/king-lear.jpg",
-    "language": "English",
-    "link": "https://en.wikipedia.org/wiki/King_Lear\n",
-    "pages": 384,
-    "title": "King Lear",
-    "year": 1608
-  },
-  {
-    "author": "William Shakespeare",
-    "country": "England",
-    "imageLink": "images/othello.jpg",
-    "language": "English",
-    "link": "https://en.wikipedia.org/wiki/Othello\n",
-    "pages": 314,
-    "title": "Othello",
-    "year": 1609
-  },
-  {
-    "author": "Sophocles",
-    "country": "Greece",
-    "imageLink": "images/oedipus-the-king.jpg",
-    "language": "Greek",
-    "link": "https://en.wikipedia.org/wiki/Oedipus_the_King\n",
-    "pages": 88,
-    "title": "Oedipus the King",
-    "year": -430
-  },
-  {
-    "author": "Stendhal",
-    "country": "France",
-    "imageLink": "images/le-rouge-et-le-noir.jpg",
-    "language": "French",
-    "link": "https://en.wikipedia.org/wiki/The_Red_and_the_Black\n",
-    "pages": 576,
-    "title": "The Red and the Black",
-    "year": 1830
-  },
-  {
-    "author": "Laurence Sterne",
-    "country": "England",
-    "imageLink": "images/the-life-and-opinions-of-tristram-shandy.jpg",
-    "language": "English",
-    "link": "https://en.wikipedia.org/wiki/The_Life_and_Opinions_of_Tristram_Shandy,_Gentleman\n",
-    "pages": 640,
-    "title": "The Life And Opinions of Tristram Shandy",
-    "year": 1760
-  },
-  {
-    "author": "Italo Svevo",
-    "country": "Italy",
-    "imageLink": "images/confessions-of-zeno.jpg",
-    "language": "Italian",
-    "link": "https://en.wikipedia.org/wiki/Zeno%27s_Conscience\n",
-    "pages": 412,
-    "title": "Confessions of Zeno",
-    "year": 1923
-  },
-  {
-    "author": "Jonathan Swift",
-    "country": "Ireland",
-    "imageLink": "images/gullivers-travels.jpg",
-    "language": "English",
-    "link": "https://en.wikipedia.org/wiki/Gulliver%27s_Travels\n",
-    "pages": 178,
-    "title": "Gulliver's Travels",
-    "year": 1726
-  },
-  {
-    "author": "Leo Tolstoy",
-    "country": "Russia",
-    "imageLink": "images/war-and-peace.jpg",
-    "language": "Russian",
-    "link": "https://en.wikipedia.org/wiki/War_and_Peace\n",
-    "pages": 1296,
-    "title": "War and Peace",
-    "year": 1867
-  },
-  {
-    "author": "Leo Tolstoy",
-    "country": "Russia",
-    "imageLink": "images/anna-karenina.jpg",
-    "language": "Russian",
-    "link": "https://en.wikipedia.org/wiki/Anna_Karenina\n",
-    "pages": 864,
-    "title": "Anna Karenina",
-    "year": 1877
-  },
-  {
-    "author": "Leo Tolstoy",
-    "country": "Russia",
-    "imageLink": "images/the-death-of-ivan-ilyich.jpg",
-    "language": "Russian",
-    "link": "https://en.wikipedia.org/wiki/The_Death_of_Ivan_Ilyich\n",
-    "pages": 92,
-    "title": "The Death of Ivan Ilyich",
-    "year": 1886
-  },
-  {
-    "author": "Mark Twain",
-    "country": "United States",
-    "imageLink": "images/the-adventures-of-huckleberry-finn.jpg",
-    "language": "English",
-    "link": "https://en.wikipedia.org/wiki/Adventures_of_Huckleberry_Finn\n",
-    "pages": 224,
-    "title": "The Adventures of Huckleberry Finn",
-    "year": 1884
-  },
-  {
-    "author": "Valmiki",
-    "country": "India",
-    "imageLink": "images/ramayana.jpg",
-    "language": "Sanskrit",
-    "link": "https://en.wikipedia.org/wiki/Ramayana\n",
-    "pages": 152,
-    "title": "Ramayana",
-    "year": -450
-  },
-  {
-    "author": "Virgil",
-    "country": "Roman Empire",
-    "imageLink": "images/the-aeneid.jpg",
-    "language": "Classical Latin",
-    "link": "https://en.wikipedia.org/wiki/Aeneid\n",
-    "pages": 442,
-    "title": "The Aeneid",
-    "year": -23
-  },
-  {
-    "author": "Vyasa",
-    "country": "India",
-    "imageLink": "images/the-mahab-harata.jpg",
-    "language": "Sanskrit",
-    "link": "https://en.wikipedia.org/wiki/Mahabharata\n",
-    "pages": 276,
-    "title": "Mahabharata",
-    "year": -700
-  },
-  {
-    "author": "Walt Whitman",
-    "country": "United States",
-    "imageLink": "images/leaves-of-grass.jpg",
-    "language": "English",
-    "link": "https://en.wikipedia.org/wiki/Leaves_of_Grass\n",
-    "pages": 152,
-    "title": "Leaves of Grass",
-    "year": 1855
-  },
-  {
-    "author": "Virginia Woolf",
-    "country": "United Kingdom",
-    "imageLink": "images/mrs-dalloway.jpg",
-    "language": "English",
-    "link": "https://en.wikipedia.org/wiki/Mrs_Dalloway\n",
-    "pages": 216,
-    "title": "Mrs Dalloway",
-    "year": 1925
-  },
-  {
-    "author": "Virginia Woolf",
-    "country": "United Kingdom",
-    "imageLink": "images/to-the-lighthouse.jpg",
-    "language": "English",
-    "link": "https://en.wikipedia.org/wiki/To_the_Lighthouse\n",
-    "pages": 209,
-    "title": "To the Lighthouse",
-    "year": 1927
-  },
-  {
-    "author": "Marguerite Yourcenar",
-    "country": "France/Belgium",
-    "imageLink": "images/memoirs-of-hadrian.jpg",
-    "language": "French",
-    "link": "https://en.wikipedia.org/wiki/Memoirs_of_Hadrian\n",
-    "pages": 408,
-    "title": "Memoirs of Hadrian",
-    "year": 1951
+    "ASIN": "044310073X",
+    "FILENAME": "044310073X.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/41kSLEoswsL.jpg",
+    "TITLE": "Oral and Maxillofacial Surgery: An Objective-Based Textbook, 2e",
+    "AUTHOR": "",
+    "CATEGORY_ID": 16,
+    "CATEGORY": "Medical Books"
+  },
+  {
+    "ASIN": 1438005687,
+    "FILENAME": "1438005687.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/510l0qhi01L.jpg",
+    "TITLE": "Barron's GRE, 21st Edition",
+    "AUTHOR": "Sharon Weiner Green M.A.",
+    "CATEGORY_ID": 28,
+    "CATEGORY": "Test Preparation"
+  },
+  {
+    "ASIN": 60750715,
+    "FILENAME": "0060750715.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51p5aUY%2BOKL.jpg",
+    "TITLE": "George Balanchine: The Ballet Maker (Eminent Lives)",
+    "AUTHOR": "Robert Gottlieb",
+    "CATEGORY_ID": 1,
+    "CATEGORY": "Biographies & Memoirs"
+  },
+  {
+    "ASIN": 1580237959,
+    "FILENAME": "1580237959.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51pum0eWe4L.jpg",
+    "TITLE": "A Partner in Holiness: Deepening Mindfulness, Practicing Compassion and Enriching Our Lives Through the Wisdom of R. Levi Yitzhak of Berdichev's, Vol. 2  (Institute for Jewish Spirituality)",
+    "AUTHOR": "Rabbi Jonathan P. Slater DMin",
+    "CATEGORY_ID": 21,
+    "CATEGORY": "Religion & Spirituality"
+  },
+  {
+    "ASIN": 135137829,
+    "FILENAME": "0135137829.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51PuTPPCxaL.jpg",
+    "TITLE": "Construction Scheduling: Principles and Practices (2nd Edition)",
+    "AUTHOR": "Jay S. Newitt",
+    "CATEGORY_ID": 0,
+    "CATEGORY": "Arts & Photography"
+  },
+  {
+    "ASIN": 312556411,
+    "FILENAME": "0312556411.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51uNnIlIwrL.jpg",
+    "TITLE": "Literature and Its Writers: A Compact Introduction to Fiction, Poetry, and Drama",
+    "AUTHOR": "Ann Charters",
+    "CATEGORY_ID": 15,
+    "CATEGORY": "Literature & Fiction"
+  },
+  {
+    "ASIN": 393339157,
+    "FILENAME": "0393339157.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51VIlqRy-VL.jpg",
+    "TITLE": "Straight on Till Morning: The Life of Beryl Markham",
+    "AUTHOR": "Mary S. Lovell",
+    "CATEGORY_ID": 10,
+    "CATEGORY": "Engineering & Transportation"
+  },
+  {
+    "ASIN": 521456924,
+    "FILENAME": "0521456924.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/41n7iZq-0jL.jpg",
+    "TITLE": "Diagrammatica: The Path to Feynman Diagrams (Cambridge Lecture Notes in Physics)",
+    "AUTHOR": "Martinus Veltman",
+    "CATEGORY_ID": 23,
+    "CATEGORY": "Science & Math"
+  },
+  {
+    "ASIN": 898699223,
+    "FILENAME": "0898699223.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/41xLYt-v6nL.jpg",
+    "TITLE": "Book of Common Prayer 1979: Large Print edition",
+    "AUTHOR": "",
+    "CATEGORY_ID": 9,
+    "CATEGORY": "Christian Books & Bibles"
+  },
+  {
+    "ASIN": 545700272,
+    "FILENAME": "0545700272.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51KyLXczCqL.jpg",
+    "TITLE": "A Handful of Stars",
+    "AUTHOR": "Cynthia Lord",
+    "CATEGORY_ID": 4,
+    "CATEGORY": "Children's Books"
+  },
+  {
+    "ASIN": 1616494441,
+    "FILENAME": "1616494441.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51Jku59B9CL.jpg",
+    "TITLE": "Almost Anorexic: Is My (or My Loved One's) Relationship with Food a Problem? (The Almost Effect)",
+    "AUTHOR": "Ph.D. Jennifer J Thomas",
+    "CATEGORY_ID": 25,
+    "CATEGORY": "Self-Help"
+  },
+  {
+    "ASIN": 1627227318,
+    "FILENAME": "1627227318.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/41LkijoCvuL.jpg",
+    "TITLE": "Pre-ANDA Litigation: Strategies and Tactics for Developing a Drug Product and Patent Portfolio",
+    "AUTHOR": "",
+    "CATEGORY_ID": 14,
+    "CATEGORY": "Law"
+  },
+  {
+    "ASIN": 1849056536,
+    "FILENAME": "1849056536.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51Tjv23guEL.jpg",
+    "TITLE": "Creative, Successful, Dyslexic: 23 High Achievers Share Their Stories",
+    "AUTHOR": "",
+    "CATEGORY_ID": 19,
+    "CATEGORY": "Politics & Social Sciences"
+  },
+  {
+    "ASIN": 313335427,
+    "FILENAME": "0313335427.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51C16779N8L.jpg",
+    "TITLE": "Organ Transplantation (Health and Medical Issues Today)",
+    "AUTHOR": "David Petechuk",
+    "CATEGORY_ID": 11,
+    "CATEGORY": "Health, Fitness & Dieting"
+  },
+  {
+    "ASIN": 316185434,
+    "FILENAME": "0316185434.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51JFeqcU96L.jpg",
+    "TITLE": "The Age of Acquiescence: The Life and Death of American Resistance to Organized Wealth and Power",
+    "AUTHOR": "Steve Fraser",
+    "CATEGORY_ID": 2,
+    "CATEGORY": "Business & Money"
+  },
+  {
+    "ASIN": 972467637,
+    "FILENAME": "0972467637.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51kOYa-LHML.jpg",
+    "TITLE": "The Multiples Manual: Preparing and Caring for Twins or Triplets",
+    "AUTHOR": "Lynn Lorenz",
+    "CATEGORY_ID": 18,
+    "CATEGORY": "Parenting & Relationships"
+  },
+  {
+    "ASIN": 962904201,
+    "FILENAME": "0962904201.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51bWdcsbX0L.jpg",
+    "TITLE": "Oregon High: A Climbing Guide to Nine Cascade Volcanoes",
+    "AUTHOR": "Jeff Thomas",
+    "CATEGORY_ID": 26,
+    "CATEGORY": "Sports & Outdoors"
+  },
+  {
+    "ASIN": 596527322,
+    "FILENAME": "0596527322.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/5159f7hqJjL.jpg",
+    "TITLE": "HTML & XHTML: The Definitive Guide (6th Edition)",
+    "AUTHOR": "Chuck Musciano",
+    "CATEGORY_ID": 6,
+    "CATEGORY": "Computers & Technology"
+  },
+  {
+    "ASIN": 1514196239,
+    "FILENAME": "1514196239.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/5178fq2DV3L.jpg",
+    "TITLE": "Anti Inflammatory Cookbook - 50 Slow Cooker Recipes With Anti - Inflammatory Ingredients: Great For Gout! (Slow Cooker Cookbooks)",
+    "AUTHOR": "Kate Marsh",
+    "CATEGORY_ID": 7,
+    "CATEGORY": "Cookbooks, Food & Wine"
+  },
+  {
+    "ASIN": "079382883X",
+    "FILENAME": "079382883X.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51zi2q5JfbL.jpg",
+    "TITLE": "Leopard Geckos (Complete Herp Care)",
+    "AUTHOR": "Gerald Merker",
+    "CATEGORY_ID": 8,
+    "CATEGORY": "Crafts, Hobbies & Home"
+  },
+  {
+    "ASIN": 1907732837,
+    "FILENAME": "1907732837.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51AdbQZwDuL.jpg",
+    "TITLE": "Botswana & Its National Heritage",
+    "AUTHOR": "Sandy Grant",
+    "CATEGORY_ID": 29,
+    "CATEGORY": "Travel"
+  },
+  {
+    "ASIN": 871137607,
+    "FILENAME": "0871137607.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51EdPM0rHkL.jpg",
+    "TITLE": "Eat the Rich: A Treatise on Economics",
+    "AUTHOR": "P.  J. O'Rourke",
+    "CATEGORY_ID": 13,
+    "CATEGORY": "Humor & Entertainment"
+  },
+  {
+    "ASIN": 553508784,
+    "FILENAME": "0553508784.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51V7y865BxL.jpg",
+    "TITLE": "Paw Patrol Phonics Box Set (PAW Patrol) (Step into Reading)",
+    "AUTHOR": "Jennifer Liberts",
+    "CATEGORY_ID": 20,
+    "CATEGORY": "Reference"
+  },
+  {
+    "ASIN": 1780548273,
+    "FILENAME": "1780548273.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/61Yudxp-yeL.jpg",
+    "TITLE": "The Official Doctor Who2016 Square Calendar",
+    "AUTHOR": "",
+    "CATEGORY_ID": 3,
+    "CATEGORY": "Calendars"
+  },
+  {
+    "ASIN": 1888216468,
+    "FILENAME": "1888216468.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51t0aUEe0tL.jpg",
+    "TITLE": "Battlefields of the Civil War Map",
+    "AUTHOR": "National Geographic Society",
+    "CATEGORY_ID": 12,
+    "CATEGORY": "History"
+  },
+  {
+    "ASIN": 1932234969,
+    "FILENAME": "1932234969.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51IybjClfrL.jpg",
+    "TITLE": "5 Centimeters per Second",
+    "AUTHOR": "",
+    "CATEGORY_ID": 5,
+    "CATEGORY": "Comics & Graphic Novels"
+  },
+  {
+    "ASIN": 1583419543,
+    "FILENAME": "1583419543.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51AiMilDWpL.jpg",
+    "TITLE": "The Story of the New Orleans Hornets (The NBA: a History of Hoops)",
+    "AUTHOR": "Tyler Omoth",
+    "CATEGORY_ID": 27,
+    "CATEGORY": "Teen & Young Adult"
+  },
+  {
+    "ASIN": 871272407,
+    "FILENAME": "0871272407.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51t2uBEMp3L.jpg",
+    "TITLE": "Love in Provence: Romantic Adventures in the South of France",
+    "AUTHOR": "Yvone Lenard",
+    "CATEGORY_ID": 22,
+    "CATEGORY": "Romance"
+  },
+  {
+    "ASIN": 471041386,
+    "FILENAME": "0471041386.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/41aVeVvefKL.jpg",
+    "TITLE": "Polymeric Multicomponent Materials: An Introduction",
+    "AUTHOR": "L. H. Sperling",
+    "CATEGORY_ID": 23,
+    "CATEGORY": "Science & Math"
+  },
+  {
+    "ASIN": 147514940,
+    "FILENAME": "0147514940.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51TI3FwVa%2BL.jpg",
+    "TITLE": "Fantasy League",
+    "AUTHOR": "Mike Lupica",
+    "CATEGORY_ID": 4,
+    "CATEGORY": "Children's Books"
+  },
+  {
+    "ASIN": 976326817,
+    "FILENAME": "0976326817.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/31VJtBTmfvL.jpg",
+    "TITLE": "Be the Ultimate Assistant: A celebrity assistant's secrets to working with any high-powered employer",
+    "AUTHOR": "Bonnie Low-Kramen",
+    "CATEGORY_ID": 2,
+    "CATEGORY": "Business & Money"
+  },
+  {
+    "ASIN": 830830375,
+    "FILENAME": "0830830375.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51pnw9xXOtL.jpg",
+    "TITLE": "Parables: The Greatest Stories Ever Told (Lifeguide Bible Studies)",
+    "AUTHOR": "John White",
+    "CATEGORY_ID": 9,
+    "CATEGORY": "Christian Books & Bibles"
+  },
+  {
+    "ASIN": 4041673410,
+    "FILENAME": "4041673410.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51pqgSj8YoL.jpg",
+    "TITLE": "Bali Travels Maldives [Japanese Edition]",
+    "AUTHOR": "Giniro Natsuo",
+    "CATEGORY_ID": 29,
+    "CATEGORY": "Travel"
+  },
+  {
+    "ASIN": "111801684X",
+    "FILENAME": "111801684X.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/518VXqYR27L.jpg",
+    "TITLE": "Microsoft Windows Security Essentials",
+    "AUTHOR": "Darril Gibson",
+    "CATEGORY_ID": 6,
+    "CATEGORY": "Computers & Technology"
+  },
+  {
+    "ASIN": 1932564462,
+    "FILENAME": "1932564462.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51TLjyIjU%2BL.jpg",
+    "TITLE": "Shadowrun: Third Edition (FPR25000)",
+    "AUTHOR": "FanPro",
+    "CATEGORY_ID": 24,
+    "CATEGORY": "Science Fiction & Fantasy"
+  },
+  {
+    "ASIN": 982565062,
+    "FILENAME": "0982565062.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51uJz4Jd-hL.jpg",
+    "TITLE": "The Crime Wave: Collected Nonfiction (The Ace Performer Collection series)",
+    "AUTHOR": "Dashiell Hammett",
+    "CATEGORY_ID": 17,
+    "CATEGORY": "Mystery, Thriller & Suspense"
+  },
+  {
+    "ASIN": 711232997,
+    "FILENAME": "0711232997.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/61c4EZtdtNL.jpg",
+    "TITLE": "The English Country House Garden",
+    "AUTHOR": "Marcus Harpur",
+    "CATEGORY_ID": 8,
+    "CATEGORY": "Crafts, Hobbies & Home"
+  },
+  {
+    "ASIN": 153003804,
+    "FILENAME": "0153003804.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51JXp76wG1L.jpg",
+    "TITLE": "Diary of Anne Frank",
+    "AUTHOR": "Frances Goodrich",
+    "CATEGORY_ID": 12,
+    "CATEGORY": "History"
+  },
+  {
+    "ASIN": 1622020758,
+    "FILENAME": "1622020758.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/41uPslzVRgL.jpg",
+    "TITLE": "ICD-10-CM 2015: The Complete Official Codebook",
+    "AUTHOR": "",
+    "CATEGORY_ID": 16,
+    "CATEGORY": "Medical Books"
+  },
+  {
+    "ASIN": 1557044686,
+    "FILENAME": "1557044686.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/410oYwwjssL.jpg",
+    "TITLE": "The Words of Gandhi (Newmarket Words Of Series)",
+    "AUTHOR": "Mahatma Gandhi",
+    "CATEGORY_ID": 21,
+    "CATEGORY": "Religion & Spirituality"
+  },
+  {
+    "ASIN": 688135765,
+    "FILENAME": "0688135765.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/61gCGr0YMzL.jpg",
+    "TITLE": "Shortcut",
+    "AUTHOR": "Donald Crews",
+    "CATEGORY_ID": 4,
+    "CATEGORY": "Children's Books"
+  },
+  {
+    "ASIN": 470019239,
+    "FILENAME": "0470019239.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/41LiDBXEC-L.jpg",
+    "TITLE": "Medical Mycology: Cellular and Molecular Techniques",
+    "AUTHOR": "",
+    "CATEGORY_ID": 11,
+    "CATEGORY": "Health, Fitness & Dieting"
+  },
+  {
+    "ASIN": 872860051,
+    "FILENAME": "0872860051.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51ssxbQig9L.jpg",
+    "TITLE": "The First Third",
+    "AUTHOR": "Neal Cassady",
+    "CATEGORY_ID": 29,
+    "CATEGORY": "Travel"
+  },
+  {
+    "ASIN": 385349297,
+    "FILENAME": "0385349297.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/41hJGXQAq%2BL.jpg",
+    "TITLE": "Reasons Mommy Drinks",
+    "AUTHOR": "Lyranda Martin-Evans",
+    "CATEGORY_ID": 13,
+    "CATEGORY": "Humor & Entertainment"
+  },
+  {
+    "ASIN": 323072534,
+    "FILENAME": "0323072534.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/41eD1Ln0KlL.jpg",
+    "TITLE": "Manual of High Risk Pregnancy and Delivery, 5e (Manual of High Risk Pregnancy & Delivery)",
+    "AUTHOR": "Elizabeth S. Gilbert RNC  MS  FNPc",
+    "CATEGORY_ID": 16,
+    "CATEGORY": "Medical Books"
+  },
+  {
+    "ASIN": 1466566086,
+    "FILENAME": "1466566086.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/41XfKAnD%2BgL.jpg",
+    "TITLE": "Oscillations and Waves: An Introduction",
+    "AUTHOR": "Richard Fitzpatrick",
+    "CATEGORY_ID": 23,
+    "CATEGORY": "Science & Math"
+  },
+  {
+    "ASIN": 1416594914,
+    "FILENAME": "1416594914.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51hCxlTZ5EL.jpg",
+    "TITLE": "DAMAGES",
+    "AUTHOR": "Barry Werth",
+    "CATEGORY_ID": 14,
+    "CATEGORY": "Law"
+  },
+  {
+    "ASIN": 851513743,
+    "FILENAME": "0851513743.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/41oo7KfL5ML.jpg",
+    "TITLE": "Sermons on Timothy and Titus (16th-17th Century Facsimile Edition)",
+    "AUTHOR": "John Calvin",
+    "CATEGORY_ID": 9,
+    "CATEGORY": "Christian Books & Bibles"
+  },
+  {
+    "ASIN": 1849752621,
+    "FILENAME": "1849752621.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51U6eq7vu4L.jpg",
+    "TITLE": "Oils and Vinegars: Discovering and Enjoying Gourmet Oils and Vinegars",
+    "AUTHOR": "Liz Franklin",
+    "CATEGORY_ID": 7,
+    "CATEGORY": "Cookbooks, Food & Wine"
+  },
+  {
+    "ASIN": 393730018,
+    "FILENAME": "0393730018.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51BLmSCM6dL.jpg",
+    "TITLE": "The Handbook of Painted Decoration: The Tools, Materials, and Step-by-Step Techniques of Trompe L'Oeil Painting",
+    "AUTHOR": "Yannick Guegan",
+    "CATEGORY_ID": 0,
+    "CATEGORY": "Arts & Photography"
+  },
+  {
+    "ASIN": 823802817,
+    "FILENAME": "0823802817.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/41ANPWYHPBL.jpg",
+    "TITLE": "Stage Plays from the Classics: One-Act Adaptations from Famous Short Stories, Novels, and Plays",
+    "AUTHOR": "Joellen Bland",
+    "CATEGORY_ID": 27,
+    "CATEGORY": "Teen & Young Adult"
+  },
+  {
+    "ASIN": "162336583X",
+    "FILENAME": "162336583X.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/61INLFujcpL.jpg",
+    "TITLE": "Runner's World Meals on the Run: 150 energy-packed recipes in 30 minutes or less",
+    "AUTHOR": "Joanna Sayago Golub",
+    "CATEGORY_ID": 7,
+    "CATEGORY": "Cookbooks, Food & Wine"
+  },
+  {
+    "ASIN": 1564967425,
+    "FILENAME": "1564967425.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/61zJetR%2BnFL.jpg",
+    "TITLE": "Mosaics Inside & Out: Patterns and Inspirations for 17 Mosaic Projects",
+    "AUTHOR": "Doreen Mastandrea",
+    "CATEGORY_ID": 8,
+    "CATEGORY": "Crafts, Hobbies & Home"
+  },
+  {
+    "ASIN": 983346666,
+    "FILENAME": "0983346666.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/61Yo1Mi1JOL.jpg",
+    "TITLE": "She Appears! Encounters with Kwan Yin, Goddess of Compassion",
+    "AUTHOR": "Sandy Boucher",
+    "CATEGORY_ID": 21,
+    "CATEGORY": "Religion & Spirituality"
+  },
+  {
+    "ASIN": 1444334050,
+    "FILENAME": "1444334050.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/41OSYKAWwFL.jpg",
+    "TITLE": "A Companion to Museum Studies",
+    "AUTHOR": "",
+    "CATEGORY_ID": 2,
+    "CATEGORY": "Business & Money"
+  },
+  {
+    "ASIN": 618428852,
+    "FILENAME": "0618428852.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51N4hEjfIyL.jpg",
+    "TITLE": "United States History  Early Years (Level 5): Houghton Mifflin Social Studies",
+    "AUTHOR": "HOUGHTON MIFFLIN",
+    "CATEGORY_ID": 4,
+    "CATEGORY": "Children's Books"
+  },
+  {
+    "ASIN": 1878823299,
+    "FILENAME": "1878823299.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51EU06TQR0L.jpg",
+    "TITLE": "Indoor Marijuana Horticulture: The Indoor Bible",
+    "AUTHOR": "Jorge Cervantes",
+    "CATEGORY_ID": 23,
+    "CATEGORY": "Science & Math"
+  },
+  {
+    "ASIN": 1250036658,
+    "FILENAME": "1250036658.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51-RntCdC-L.jpg",
+    "TITLE": "This Book Is Full of Spiders: Seriously, Dude, Don't Touch It (John Dies at the End)",
+    "AUTHOR": "David Wong",
+    "CATEGORY_ID": 15,
+    "CATEGORY": "Literature & Fiction"
+  },
+  {
+    "ASIN": 1594772592,
+    "FILENAME": "1594772592.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51HI3R5ucDL.jpg",
+    "TITLE": "The Secret to Long Life in Your DNA: The Beljanski Approach to Cellular Health",
+    "AUTHOR": "Hervé Janecek Ph.D.",
+    "CATEGORY_ID": 11,
+    "CATEGORY": "Health, Fitness & Dieting"
+  },
+  {
+    "ASIN": 827604386,
+    "FILENAME": "0827604386.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/41LS0LgettL.jpg",
+    "TITLE": "Rabbi Israel Salanter and the Mussar Movement: Seeking the Torah of Truth",
+    "AUTHOR": "Immanuel Etkes",
+    "CATEGORY_ID": 1,
+    "CATEGORY": "Biographies & Memoirs"
+  },
+  {
+    "ASIN": 299151646,
+    "FILENAME": "0299151646.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51WTCse4XRL.jpg",
+    "TITLE": "The Healthiest City: Milwaukee and the Politics of Health Reform",
+    "AUTHOR": "Judith W. Leavitt",
+    "CATEGORY_ID": 29,
+    "CATEGORY": "Travel"
+  },
+  {
+    "ASIN": "162972095X",
+    "FILENAME": "162972095X.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51T3GSdb4hL.jpg",
+    "TITLE": "My Fair Gentleman (Proper Romance) (A Proper Romance)",
+    "AUTHOR": "Nancy Campbell Allen",
+    "CATEGORY_ID": 22,
+    "CATEGORY": "Romance"
+  },
+  {
+    "ASIN": 1594852537,
+    "FILENAME": "1594852537.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51fgYDde-zL.jpg",
+    "TITLE": "Stand Up Paddling: Flatwater to Surf and Rivers (Mountaineering Outdoor Experts) (Moes)",
+    "AUTHOR": "Rob Casey",
+    "CATEGORY_ID": 26,
+    "CATEGORY": "Sports & Outdoors"
+  },
+  {
+    "ASIN": 890515808,
+    "FILENAME": "0890515808.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51SCBOPtu0L.jpg",
+    "TITLE": "Your Guide to Zion and Bryce Canyon (True North Series)",
+    "AUTHOR": "Mike Oard",
+    "CATEGORY_ID": 9,
+    "CATEGORY": "Christian Books & Bibles"
+  },
+  {
+    "ASIN": 1493758292,
+    "FILENAME": "1493758292.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51rpRrPuNwL.jpg",
+    "TITLE": "Unnatural Talent: Creating, Printing and Selling Your Comic in the Digital Age",
+    "AUTHOR": "Jason Brubaker",
+    "CATEGORY_ID": 5,
+    "CATEGORY": "Comics & Graphic Novels"
+  },
+  {
+    "ASIN": 399168834,
+    "FILENAME": "0399168834.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/41TQKcxPcIL.jpg",
+    "TITLE": "Brainstorm: The Power and Purpose of the Teenage Brain",
+    "AUTHOR": "Daniel J. Siegel MD",
+    "CATEGORY_ID": 18,
+    "CATEGORY": "Parenting & Relationships"
+  },
+  {
+    "ASIN": 1495944336,
+    "FILENAME": "1495944336.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51b4r8w9r7L.jpg",
+    "TITLE": "E-Commerce Concepts",
+    "AUTHOR": "Dr Randall J Dyck",
+    "CATEGORY_ID": 6,
+    "CATEGORY": "Computers & Technology"
+  },
+  {
+    "ASIN": 1594483809,
+    "FILENAME": "1594483809.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/61lX5yjQf%2BL.jpg",
+    "TITLE": "Well Enough Alone: A Cultural History of My Hypochondria",
+    "AUTHOR": "Jennifer Traig",
+    "CATEGORY_ID": 13,
+    "CATEGORY": "Humor & Entertainment"
+  },
+  {
+    "ASIN": 71825053,
+    "FILENAME": "0071825053.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/61x8Dfxs9CL.jpg",
+    "TITLE": "Basic and Clinical Pharmacology 13 E",
+    "AUTHOR": "Bertram Katzung",
+    "CATEGORY_ID": 16,
+    "CATEGORY": "Medical Books"
+  },
+  {
+    "ASIN": "B003YCQCYE",
+    "FILENAME": "B003YCQCYE.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51F1112Q6ML.jpg",
+    "TITLE": "How to Have a Big Wedding on a Small Budget",
+    "AUTHOR": "Diane Warner",
+    "CATEGORY_ID": 8,
+    "CATEGORY": "Crafts, Hobbies & Home"
+  },
+  {
+    "ASIN": 1572226986,
+    "FILENAME": "1572226986.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51bazlq7u6L.jpg",
+    "TITLE": "Russian Grammar (Quickstudy: Academic)",
+    "AUTHOR": "Inc. BarCharts",
+    "CATEGORY_ID": 20,
+    "CATEGORY": "Reference"
+  },
+  {
+    "ASIN": 975395114,
+    "FILENAME": "0975395114.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51DMugmdAuL.jpg",
+    "TITLE": "Responsible Travel Guide Cambodia",
+    "AUTHOR": "Pujita Nanette Mayeda",
+    "CATEGORY_ID": 29,
+    "CATEGORY": "Travel"
+  },
+  {
+    "ASIN": 133795020,
+    "FILENAME": "0133795020.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51MyuNfkVGL.jpg",
+    "TITLE": "Principles of Marketing (16th Edition) (Newest Edition)",
+    "AUTHOR": "Philip T Kotler",
+    "CATEGORY_ID": 2,
+    "CATEGORY": "Business & Money"
+  },
+  {
+    "ASIN": 1608874257,
+    "FILENAME": "1608874257.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51O2-prLrML.jpg",
+    "TITLE": "Halo: The Poster Collection",
+    "AUTHOR": "",
+    "CATEGORY_ID": 0,
+    "CATEGORY": "Arts & Photography"
+  },
+  {
+    "ASIN": 763652326,
+    "FILENAME": "0763652326.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51gO81UQHXL.jpg",
+    "TITLE": "Mercy Watson: Something Wonky this Way Comes",
+    "AUTHOR": "Kate DiCamillo",
+    "CATEGORY_ID": 4,
+    "CATEGORY": "Children's Books"
+  },
+  {
+    "ASIN": "161620463X",
+    "FILENAME": "161620463X.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51moAp8QXyL.jpg",
+    "TITLE": "If You're Lucky",
+    "AUTHOR": "Yvonne Prinz",
+    "CATEGORY_ID": 27,
+    "CATEGORY": "Teen & Young Adult"
+  },
+  {
+    "ASIN": 1605537071,
+    "FILENAME": "1605537071.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51jnErh-u9L.jpg",
+    "TITLE": "Great-Tasting Potatoes Cookbook",
+    "AUTHOR": "Editors of Favorite Name Brand Recipes",
+    "CATEGORY_ID": 7,
+    "CATEGORY": "Cookbooks, Food & Wine"
+  },
+  {
+    "ASIN": 816057583,
+    "FILENAME": "0816057583.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/512NdDiYqZL.jpg",
+    "TITLE": "The Kuwaiti Oil Fires (Environmental Disasters)",
+    "AUTHOR": "Kristine Hirschmann",
+    "CATEGORY_ID": 12,
+    "CATEGORY": "History"
+  },
+  {
+    "ASIN": 1591200172,
+    "FILENAME": "1591200172.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51F3KTDSSRL.jpg",
+    "TITLE": "Healing Without Medication: A Comprehensive Guide to the Complementary Techniques Anyone Can Use to Achieve Real Healing",
+    "AUTHOR": "Robert S. Rister",
+    "CATEGORY_ID": 11,
+    "CATEGORY": "Health, Fitness & Dieting"
+  },
+  {
+    "ASIN": 300200676,
+    "FILENAME": "0300200676.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51QRtiFZJtL.jpg",
+    "TITLE": "Eternity's Sunrise: The Imaginative World of William Blake",
+    "AUTHOR": "Leo Damrosch",
+    "CATEGORY_ID": 15,
+    "CATEGORY": "Literature & Fiction"
+  },
+  {
+    "ASIN": 1841625612,
+    "FILENAME": "1841625612.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51VnUTL5nKL.jpg",
+    "TITLE": "Paraguay (Bradt Travel Guide)",
+    "AUTHOR": "Margaret Hebblethwaite",
+    "CATEGORY_ID": 29,
+    "CATEGORY": "Travel"
+  },
+  {
+    "ASIN": 1593853084,
+    "FILENAME": "1593853084.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/41I2zm6GAyL.jpg",
+    "TITLE": "Treating Trauma and Traumatic Grief in Children and Adolescents",
+    "AUTHOR": "Judith A. Cohen",
+    "CATEGORY_ID": 16,
+    "CATEGORY": "Medical Books"
+  },
+  {
+    "ASIN": 1403973083,
+    "FILENAME": "1403973083.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/419TDqP99jL.jpg",
+    "TITLE": "A Terrible Revenge: The Ethnic Cleansing of the East European Germans",
+    "AUTHOR": "Alfred-Maurice de Zayas",
+    "CATEGORY_ID": 14,
+    "CATEGORY": "Law"
+  },
+  {
+    "ASIN": 1559630620,
+    "FILENAME": "1559630620.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51Y2pTdUbLL.jpg",
+    "TITLE": "Plastics: America's Packaging Dilemma (Island Press Critical Issues Series)",
+    "AUTHOR": "Ellen Feldman",
+    "CATEGORY_ID": 23,
+    "CATEGORY": "Science & Math"
+  },
+  {
+    "ASIN": "047005333X",
+    "FILENAME": "047005333X.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/519W7i65J%2BL.jpg",
+    "TITLE": "Microbiologically Safe Foods",
+    "AUTHOR": "Jose Santos Garcia",
+    "CATEGORY_ID": 11,
+    "CATEGORY": "Health, Fitness & Dieting"
+  },
+  {
+    "ASIN": 1609949323,
+    "FILENAME": "1609949323.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/41d0t0efHaL.jpg",
+    "TITLE": "Life Reimagined: Discovering Your New Life Possibilities",
+    "AUTHOR": "Richard J. Leider",
+    "CATEGORY_ID": 25,
+    "CATEGORY": "Self-Help"
+  },
+  {
+    "ASIN": 613721209,
+    "FILENAME": "0613721209.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51lXAnDj5RL.jpg",
+    "TITLE": "It's St. Patrick's Day (Turtleback School & Library Binding Edition) (Scholastic Reader: Level 1 (Pb))",
+    "AUTHOR": "Rebecca Gomez",
+    "CATEGORY_ID": 4,
+    "CATEGORY": "Children's Books"
+  },
+  {
+    "ASIN": 1476736952,
+    "FILENAME": "1476736952.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/61HmWM642cL.jpg",
+    "TITLE": "Strands of Sorrow (Black Tide Rising)",
+    "AUTHOR": "John Ringo",
+    "CATEGORY_ID": 24,
+    "CATEGORY": "Science Fiction & Fantasy"
+  },
+  {
+    "ASIN": "075756383X",
+    "FILENAME": "075756383X.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51U5u9K%2BABL.jpg",
+    "TITLE": "Analytic Philosophy",
+    "AUTHOR": "John-Michael Kuczynski",
+    "CATEGORY_ID": 19,
+    "CATEGORY": "Politics & Social Sciences"
+  },
+  {
+    "ASIN": 3928819232,
+    "FILENAME": "3928819232.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/714CGZPM6WL.gif",
+    "TITLE": "The Modern Coral Reef Aquarium, Volume 2 (v. 2)",
+    "AUTHOR": "Svein A. Fossa",
+    "CATEGORY_ID": 8,
+    "CATEGORY": "Crafts, Hobbies & Home"
+  },
+  {
+    "ASIN": 883165635,
+    "FILENAME": "0883165635.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51HdaoFLOpL.jpg",
+    "TITLE": "Promises Kept: The Life of an Issei Man",
+    "AUTHOR": "Akemi Kikumura-Yano",
+    "CATEGORY_ID": 1,
+    "CATEGORY": "Biographies & Memoirs"
+  },
+  {
+    "ASIN": 1567651046,
+    "FILENAME": "1567651046.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/513K01ND32L.jpg",
+    "TITLE": "Vocabulary for the College Bound Student",
+    "AUTHOR": "Harold Levine",
+    "CATEGORY_ID": 27,
+    "CATEGORY": "Teen & Young Adult"
+  },
+  {
+    "ASIN": 961482125,
+    "FILENAME": "0961482125.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/41MXQ3Z8AVL.jpg",
+    "TITLE": "Hunting the Rockies: Home of the Giants",
+    "AUTHOR": "Kirt I. Darner",
+    "CATEGORY_ID": 29,
+    "CATEGORY": "Travel"
+  },
+  {
+    "ASIN": 1479834769,
+    "FILENAME": "1479834769.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/61tWZaKGBUL.jpg",
+    "TITLE": "The Slums of Aspen: Immigrants vs. the Environment in America's Eden (Nation of Nations)",
+    "AUTHOR": "Lisa  Sun-Hee Park",
+    "CATEGORY_ID": 2,
+    "CATEGORY": "Business & Money"
+  },
+  {
+    "ASIN": 735588341,
+    "FILENAME": "0735588341.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/41-nm-fpWmL.jpg",
+    "TITLE": "Disaster Law and Policy, Second Edition (Aspen Elective)",
+    "AUTHOR": "Daniel A. Farber",
+    "CATEGORY_ID": 23,
+    "CATEGORY": "Science & Math"
+  },
+  {
+    "ASIN": 1466598689,
+    "FILENAME": "1466598689.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51wRE04dZ9L.jpg",
+    "TITLE": "Mobile & Social Game Design: Monetization Methods and Mechanics, Second Edition",
+    "AUTHOR": "Tim Fields",
+    "CATEGORY_ID": 6,
+    "CATEGORY": "Computers & Technology"
+  },
+  {
+    "ASIN": 545130484,
+    "FILENAME": "0545130484.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51A2z8I-4DL.jpg",
+    "TITLE": "Ready, Freddy! #22: Science Fair Flop",
+    "AUTHOR": "Abby Klein",
+    "CATEGORY_ID": 4,
+    "CATEGORY": "Children's Books"
+  },
+  {
+    "ASIN": 1609718682,
+    "FILENAME": "1609718682.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51i%2Beq1ghKL.jpg",
+    "TITLE": "HSPT Flashcard Study System: HSPT Exam Practice Questions & Review for the High School Placement Test (Cards)",
+    "AUTHOR": "HSPT Exam Secrets Test Prep Team",
+    "CATEGORY_ID": 28,
+    "CATEGORY": "Test Preparation"
+  },
+  {
+    "ASIN": 801870895,
+    "FILENAME": "0801870895.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/41oTzSlSYuL.jpg",
+    "TITLE": "On the Backroad to Heaven: Old Order Hutterites, Mennonites, Amish, and Brethren (Center Books in Anabaptist Studies)",
+    "AUTHOR": "Donald B. Kraybill",
+    "CATEGORY_ID": 9,
+    "CATEGORY": "Christian Books & Bibles"
+  },
+  {
+    "ASIN": 1416599517,
+    "FILENAME": "1416599517.jpg",
+    "IMAGE_URL": "http://ecx.images-amazon.com/images/I/51PtnNC45mL.jpg",
+    "TITLE": "Spiritual Astrology: A Path to Divine Awakening",
+    "AUTHOR": "Jan Spiller",
+    "CATEGORY_ID": 21,
+    "CATEGORY": "Religion & Spirituality"
   }
 ]

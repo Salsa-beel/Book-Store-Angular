@@ -8,7 +8,7 @@ import { BooksService } from '../../services/books.service';
 })
 export class ListofbooksComponent {
 
-  listofbooks:any[] = []
+  books:any[] = []
 
   constructor(private service:BooksService){
 
@@ -20,7 +20,8 @@ export class ListofbooksComponent {
 }
 getlist(){
 this.service.getAllBooks().subscribe((data:any)=>{
-  console.log(data)
+  this.books=data
+  
 }) 
  }
 }
