@@ -1,16 +1,14 @@
-
+<div class="bg"></div>
 
 <div class="box p-5">
   <div class="row">
     <div class="col-6 col-sm-3"  *ngFor="let item of books">
-      <div class="card" >
+      <div class="card w-75 rounded-3 border-0 mt-3" >
         <img src="{{item.IMAGE_URL}}" class="card-img-top" alt="..." />
-        <div class="card-body">
-          <h5 class="card-title">Card title</h5>
-          <p class="card-text">
-            This is a wider card with supporting text below as a natural lead-in
-            to additional content. This card has even longer content than the
-            first to show that equal height action.
+        <div class="card-body mt-1 ">
+          <h5 class="card-title fs-7 ">{{item.TITLE}}</h5>
+          <p class="card-text fw-normal bg-warning ">
+            {{item.CATEGORY}}
           </p>
         </div>
       </div>
