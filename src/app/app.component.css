@@ -1,6 +1,8 @@
-#id{
-width: 100vh;
-height: 100vh;
-background-image: url('/src/assets/wallpaper.jpeg')no-repeat center center fixe;
-background-size: cover;
-}
+/* .bg-image{
+   background-image: url('/assets/hero.png');
+   height: 100vh;
+   background-size: cover;
+   background-position: center center;
+   background-repeat: no-repeat;
+} */
+
