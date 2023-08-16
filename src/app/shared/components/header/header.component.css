@@ -1,10 +1,10 @@
-.bg-image{
+/* .bg-image{
    background-image: url('/assets/bookstore.jpeg');
-   height: 100vh;
+   height: 50vh;
    background-size: cover;
    background-position: center center;
    background-repeat: no-repeat;
-}
+} */
 
 a{
    color: white;
@@ -14,9 +14,7 @@ a{
 }
 
 a:hover{
-   color:rgba(242, 237, 86, 0.944);
-   
-   
-   
+   color:#d93931;
+
 }
 

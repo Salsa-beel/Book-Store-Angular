@@ -7,7 +7,7 @@ body{
 
 *{
     
-    background-color: black;
+    background-color: rgb(11, 11, 11);
    
     font-family:sans-serif;
     font-size: 20px;
@@ -22,7 +22,7 @@ body{
   
   .ngx-pagination .current{
     background: #050505f1 !important;
-    border: 2px solid #efea61f1;
+    border: 2px solid #d93931;
     border-radius: 50% !important;
   }
   
@@ -32,3 +32,12 @@ body{
     border-radius: 50% !important;
     
   }
+
+  /* @font-face {
+    font-family: myFirstFont;
+    src:local("/src/assets/font/Marvel-Regular.woff")format('woff2');
+}
+
+.marvel{
+    font-family: myFirstFont, sans-serif;
+} */
