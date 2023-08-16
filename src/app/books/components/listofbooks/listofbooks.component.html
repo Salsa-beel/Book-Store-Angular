@@ -1,8 +1,16 @@
+<div class="container-fluid">
 
+  <h2 class="fw-2 fs-2 text-danger text-center pt-5">Our BookBooks</h2>
+</div>
 
 <div class="box p-5">
   <div class="row">
-    <div class="col-6 col-sm-3"  *ngFor="let item of books">
+    <div class="col-6 col-sm-3"  *ngFor="let item of books| paginate
+    : {
+        itemsPerPage: 8,
+        currentPage: pagination,
+        totalItems: alldata
+      }">
       <div class="card w-75 rounded-3 border-0 mt-3" >
         <img src="{{item.IMAGE_URL}}" class="img-thumbnail" alt="..." />
         <div class="card-body mt-1 ">
@@ -14,4 +22,16 @@
       </div>
     </div>
   </div>
+  
+  <div class="d-flex justify-content-center border-0">
+    <pagination-controls class="my-pag" (pageChange)="renderPage($event)"
+    previousLabel="Prev"
+    nextLabel="Next">
+      
+  </pagination-controls>
+  </div>
+
+
+
 </div>
+

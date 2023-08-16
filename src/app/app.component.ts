@@ -1,5 +1,6 @@
 import { Component,OnInit } from '@angular/core';
 import* as books from '../assets/books.json';
+import { BooksService } from './books/services/books.service';
 
 @Component({
   selector: 'app-root',
@@ -8,10 +9,16 @@ import* as books from '../assets/books.json';
 })
 export class AppComponent implements OnInit{
   title = 'MyBookStore';
-  data: any = books;
+
   author: any;
+  
+
+ 
 
   ngOnInit() {
-    console.log('Data', this.data);
+ 
   }
+
+ 
+
 }

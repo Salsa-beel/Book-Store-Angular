@@ -6,9 +6,16 @@ import {HttpClient} from '@angular/common/http';
 })
 export class BooksService {
 
-  constructor(private http:HttpClient) { }
+  constructor(private httpClient:HttpClient) {}
+
+  getpagebooks(page:number){
+
+    return this.httpClient.get('/assets/books.json'+'?page='+ page);
+  }
 
   getAllBooks(){
-    return this.http.get('/assets/books.json');
+    return this.httpClient.get('/assets/books.json');
   }
+
+
 }

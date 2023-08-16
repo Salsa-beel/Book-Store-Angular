@@ -1,9 +1,10 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { SharedModule } from './shared/shared.module';
+import { NgxPaginationModule } from 'ngx-pagination';
+
 
 
 @NgModule({
@@ -13,7 +14,9 @@ import { SharedModule } from './shared/shared.module';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    SharedModule // lazm hena a3mel import 3ashan ashofha fel app module
+    SharedModule, // lazm hena a3mel import 3ashan ashofha fel app module
+    NgxPaginationModule,
+   
   ],
   providers: [],
   bootstrap: [AppComponent]

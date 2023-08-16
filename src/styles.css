@@ -14,3 +14,21 @@ body{
     font-weight: lighter;
 }
 
+.ngx-pagination {
+    padding-left: 0px !important;
+    color: aliceblue;
+    border-radius: 50px!important;
+  }
+  
+  .ngx-pagination .current{
+    background: #050505f1 !important;
+    border: 2px solid #efea61f1;
+    border-radius: 50% !important;
+  }
+  
+  .ngx-pagination a:hover {
+    background: #050505f1 !important;
+    border: 2px solid #f6f6ecf1;
+    border-radius: 50% !important;
+    
+  }

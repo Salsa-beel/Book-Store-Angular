@@ -8,20 +8,40 @@ import { BooksService } from '../../services/books.service';
 })
 export class ListofbooksComponent {
 
-  books:any[] = []
+  books: any[] = []
 
-  constructor(private service:BooksService){
+
+  data: any;
+  alldata: number = 0;
+  pagination: number = 1;
+
+  constructor(private service: BooksService) {  //dependency injection to import the service to the component
 
   }
-  ngOnInit(){
- 
-    this.getlist()
+  ngOnInit() {
 
-}
-getlist(){
-this.service.getAllBooks().subscribe((data:any)=>{
-  this.books=data
-  
-}) 
- }
+    this.getlist(); 
+
+    this.fetchbooks();
+    console.log(this.fetchbooks());
+
+  }
+  getlist() {
+    this.service.getAllBooks().subscribe((data: any) => {
+      this.books = data
+
+    })
+  }
+
+  fetchbooks() {
+    this.service.getpagebooks(this.pagination).subscribe((res: any) => {
+      this.data = res.data;
+      this.alldata = res.total;
+      console.log(res.total);
+    });
+  }
+  renderPage(event: number) {
+    this.pagination = event;
+    this.fetchbooks();
+  }
 }

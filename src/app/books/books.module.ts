@@ -2,7 +2,7 @@ import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { ListofbooksComponent } from './components/listofbooks/listofbooks.component';
 import { DetailsofbooksComponent } from './components/detailsofbooks/detailsofbooks.component';
-
+import { NgxPaginationModule } from 'ngx-pagination';
 
 
 
@@ -11,9 +11,11 @@ import { DetailsofbooksComponent } from './components/detailsofbooks/detailsofbo
     ListofbooksComponent,
     DetailsofbooksComponent,
     
+    
   ],
   imports: [
-    CommonModule
+    CommonModule,
+    NgxPaginationModule
   ]
 })
 export class BooksModule { }
