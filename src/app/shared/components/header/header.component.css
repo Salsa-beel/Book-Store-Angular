@@ -1,3 +1,10 @@
+.bg-image{
+   background-image: url('/assets/bookstore.jpeg');
+   height: 100vh;
+   background-size: cover;
+   background-position: center center;
+   background-repeat: no-repeat;
+}
 
 a{
    color: white;
