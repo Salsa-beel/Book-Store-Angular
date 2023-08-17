@@ -1,51 +1,99 @@
-body {
-    padding: 0;
-    margin: 0;
-    background-color: #000;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    min-height: 100vh;
-  }
-  h1 {
-    position: relative;
-    color: hsl(57, 91%, 59%);
-    font-weight: bold;
-    font-family: "Anonymous Pro", monospace;
-    letter-spacing: 7px;
-    overflow: hidden;
-    border-right: 2px solid hsl(0, 0%, 80%);
-    white-space: nowrap;
-    animation: typewriter 3s steps(44) 1s 1 normal both,
-    blinkTextCursor 500ms infinite;
-  }
+img{
   
-  h2{
-    position: relative;
-    color: hsl(358, 91%, 59%);
-    font-weight: lighter;
-    font-family: "Anonymous Pro", monospace;
-    letter-spacing: 7px;
-    overflow: hidden;
-    border-right: 2px solid hsl(0, 0%, 80%);
-    white-space: nowrap;
-    animation: typewriter 3s steps(44) 1s 1 normal both,
-    blinkTextCursor 500ms infinite;
-  } 
+  animation-name: rotate;
+  animation-duration: 0.6s;
+  animation-delay: 0s;
+}
 
-  @keyframes typewriter {
-    from {
-      width: 0;
-    }
-    to {
-      width: 900px;
-    }
+@keyframes rotate {
+  0% {
+    transform: rotate(0);
   }
-  @keyframes blinkTextCursor {
-    from {
-      border-right-color: hsl(0, 0%, 80%);
-    }
-    to {
-      border-right-color: transparent;
-    }
+  100% {
+    transform: rotate(720deg);
   }
+}
+
+
+/* img{
+  
+  animation-name: zoom;
+  animation-duration: 0.9s;
+  animation-delay: 0s;
+}
+
+@keyframes zoom {
+  20% {
+    transform: scale(0.2,0.2);
+  }
+  100% {
+    transform: scale(1,1);
+  }
+} */
+
+
+
+
+
+
+
+/* body {
+  padding: 0;
+  margin: 0;
+  background-color: #000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+} */
+h1 {
+  text-align: center;
+  position: relative;
+  color: hsl(57, 91%, 59%);
+  font-weight: bold;
+  font-family: "Anonymous Pro", monospace;
+  letter-spacing: 7px;
+  overflow: hidden;
+  border-right: 2px solid hsl(0, 0%, 80%);
+  white-space: nowrap;
+  animation: typewriter 0.1s steps(44) 1s 1 normal both,
+  blinkTextCursor 500ms infinite;
+}
+
+
+/* animation-name: example;
+animation-duration: 4s;
+animation-delay: 2s; */
+
+h2{
+  text-align: center;
+  position: relative;
+  color: hsl(358, 91%, 59%);
+  font-weight: lighter;
+  font-family: "Anonymous Pro", monospace;
+  letter-spacing: 7px;
+  overflow: hidden;
+  /* border-right: 2px solid hsl(0, 0%, 80%); */
+  white-space: nowrap;
+  animation: typewriter 0.3s steps(44) 1.3s 1 normal both,
+  blinkTextCursor 500ms infinite;
+} 
+
+@keyframes typewriter {
+  from {
+    width: 0;
+  }
+  to {
+  
+    width: 900px;
+  }
+}
+
+@keyframes blinkTextCursor {
+  from {
+    border-right-color: hsla(0, 0%, 80%, 0.385);
+  }
+  to {
+    border-right-color: transparent;
+  }
+}
