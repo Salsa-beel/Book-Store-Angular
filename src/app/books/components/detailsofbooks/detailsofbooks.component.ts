@@ -10,18 +10,12 @@ import { BooksService } from '../../services/books.service';
   styleUrls: ['./detailsofbooks.component.css']
 })
 export class DetailsofbooksComponent implements OnInit {
-
-  
-
-
-  @Input() Book!: Book;
   id!: any
   data: any = {}
 
   constructor(private route: ActivatedRoute, private service: BooksService) {
-    this.id = this.route.snapshot.paramMap.get("id")
-    console.log(this.id)
 
+    
     // this.Book= new Book();
     // this.Book.id = 1;
     // this.Book.title = "Captain America";
@@ -36,7 +30,8 @@ export class DetailsofbooksComponent implements OnInit {
 
   ngOnInit(): void {
     this.getBook();
-    console.log(this.Book)
+   
+  
   }
 
   getBook() {
