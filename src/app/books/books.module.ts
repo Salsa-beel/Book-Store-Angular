@@ -4,6 +4,9 @@ import { ListofbooksComponent } from './components/listofbooks/listofbooks.compo
 import { DetailsofbooksComponent } from './components/detailsofbooks/detailsofbooks.component';
 import { NgxPaginationModule } from 'ngx-pagination';
 import { RouterModule } from '@angular/router';
+import { BreakingNewsComponent } from '../breaking-news/breaking-news.component';
+import { LocationComponent } from '../location/location.component';
+import { AboutUsComponent } from '../about-us/about-us.component';
 
 
 
@@ -11,6 +14,11 @@ import { RouterModule } from '@angular/router';
   declarations: [
     ListofbooksComponent,
     DetailsofbooksComponent,
+    BreakingNewsComponent,
+    LocationComponent,
+    
+    
+  
 
     
     
