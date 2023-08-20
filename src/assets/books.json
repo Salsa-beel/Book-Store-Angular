@@ -1,164 +1,167 @@
-[
-  {
-    "id": 1,
-    "title": "Captain America",
-    "author": "Joe Simon and Jack Kirby ",
-    "publication-year": 1971,
-    "description": "Captain America, a comic-strip superhero created by writer Joe Simon and artist Jack Kirby for Timely (later Marvel) Comics, debuted in March 1941 in Captain America Comics no.",
-    "thumbnailUrl": "https://cdn.marvel.com/u/prod/marvel/i/mg/3/a0/5991fa03329b7/clean.jpg"
-  },
-
-  {
-    "id": 2,
-    "title": "Marvel's Spider-Man 2 (2023) #1",
-    "author": "Christos Gage",
-    "publication-year": "May 01, 2023",
-    "description": "In the lead up to events in Marvel's Spider-Man 2, Peter and Miles team up to face an all-new threat!",
-    "thumbnailUrl": "https://cdn.marvel.com/u/prod/marvel/i/mg/9/80/645577dc06dca/clean.jpg"
-  },
-  {
-    "id": 3,
-    "title": "The Vitals: True EMS Stories #0",
-    "author": "Sean Ryan",
-    "publication-year": "June 01, 202",
-    "description": "Healthcare workers are on the frontlines during this difficult time. THE VITALS tells tales of some real heroes, the EMS teams, as they travel to high-risk environments in order to rescue those in urgent need.",
-    "thumbnailUrl": "https://cdn.marvel.com/u/prod/marvel/i/mg/3/30/609c24e82360b/clean.jpg"
-  },
-  {
-    "id": 4,
-    "title": "Immortal Hulk (2018) #1",
-    "author": "Al Ewing ",
-    "publication-year": "June 06, 2018",
-    "description": "The FIRST issue of the Immortal Hulk! Al Ewing and Joe Bennett's critically-acclaimed and best-selling Immortal Hulk series kicks off here with THE RETURN OF BRUCE BANNER! You know Bruce Banner. He's quiet, calm, never complains. He's a man who believes he can use the darkest elements of his personality to do good in the world. If someone were to shoot him in the head...all he'd do is die. But the horror lives deeper. A horror that refuses to die. When night falls something other than the man gets up again. The horror is the Immortal Hulk.",
-    "thumbnailUrl": "https://cdn.marvel.com/u/prod/marvel/i/mg/3/50/5b0f16d976240/clean.jpg"
-  },
-  {
-    "id": 5,
-    "title": "Thor (2018) #1",
-    "author": "Jason Aaron ",
-    "publication-year": "June 13, 2018",
-    "description": "JASON AARON & MIKE DEL MUNDO TAKE THE PRINCE OF ASGARD IN A WHOLE NEW DIRECTION! Thor Odinson has regained his mantle – and with it, a wild new world of trouble on his mighty hands! The artifacts of Asgard have been scattered across the earth, and to reclaim them, Thor will have to face some ugly truths. Like the production cost of hundreds of new hammers! And the Thunder God is going to need every last one of them if he’s going to stop the unstoppable Juggernaut. Jason Aaron takes the Prince of Asgard in a whole new direction with YOUNG GUN artist Mike Del Mundo joining him at the helm! And don’t miss the latest chapter of the King Thor saga with acclaimed BLACK BOLT artist Christian Ward, as the Thor of the far future encounters an old friend who’s undergone some startling changes.",
-    "thumbnailUrl": "https://cdn.marvel.com/u/prod/marvel/i/mg/6/20/5b17070d826eb/clean.jpg"
-  },
-  {
-    "id": 6,
-    "title": "Black Panther (2018) #1",
-    "author": "Ta-Nehisi Coates",
-    "publication-year": "May 23, 2018",
-    "description": "A bold new direction for the Black Panther! For years, T’Challa has fought off invaders from his homeland, protecting Wakanda from everything from meddling governments to long-lost gods. Now, he will discover that Wakanda is much bigger than he ever dreamed…Across the vast Multiverse lies an empire founded in T’Challa’s name. Readers caught a glimpse of it in MARVEL LEGACY #1. Now find out the truth behind the Intergalactic Empire of Wakanda! Ta-Nehisi Coates welcomes aboard fan-favorite artist Daniel Acuña for a Black Panther story unlike any other!",
-    "thumbnailUrl": "https://cdn.marvel.com/u/prod/marvel/i/mg/f/b0/5afc7ec776ea2/clean.jpg"
-  },
+{
+  "books":[
   
-  {
-    "id": 7,
-    "title": "Shuri (2018) #1",
-    "author": "Nnedi Okorafor ",
-    "publication-year": "October 17, 2018",
-    "description": "FOLLOWING IN THE FOOTSTEPS OF THE BLACK PANTHER! The world fell in love with her in the movie. Now, the Black Panther's techno-genius sister launches her own adventures - written by best-selling Afrofuturist author Nnedi Okorafor and drawn by Eisner-nominated artist Leonardo Romero! The Black Panther has disappeared, lost on a mission in space. And in his absence, everyone's looking at the next in line for the throne. But Shuri is happiest in a lab, surrounded by gadgets of her own creation. She'd rather be testing gauntlets than throwing them. But a nation without a leader is a vulnerable one - and Shuri may have to choose between Wakanda's welfare and her own.",
-    "thumbnailUrl": "https://cdn.marvel.com/u/prod/marvel/i/mg/7/20/5bbe6795328d7/clean.jpg"
-  },
-  {
-    "id": 8,
-    "title": "Uncanny X-Men (1963) #101",
-    "author": "Chris Claremont",
-    "publication-year": "October 01, 1976",
-    "description": "The X-Men are re-entering Earth's atmosphere aboard a crippled Starcore space shuttle with Jean Grey piloting the ship.",
-    "thumbnailUrl": "https://cdn.marvel.com/u/prod/marvel/i/mg/6/30/58b06d5a1c717/clean.jpg"
-  },
-  {
-    "id": 9,
-    "title": "Uncanny X-Men (2018) #1",
-    "author": "Matthew Rosenberg, Kelly Thompson, Ed Brisson ",
-    "publication-year": "November 14, 2018",
-    "description": "THE CHILDREN OF THE ATOM ARE BACK! New ongoing series kicking off with a 10-part weekly epic, the flagship X-Men series that started it all is back and better than ever! Starting with a mysterious and tragic disappearance, the X-Men are drawn into what might be…their final adventure?! X-Fan favorite writers Ed Brisson (EXTERMINATION), Matthew Rosenberg (PHOENIX RESURRECTION) and Kelly Thompson (MR. & MRS. X) and all-star artists Mahmud Asrar (X-MEN RED), R.B. Silva (X-MEN BLUE), Yildiray Cinar (WEAPON X) and Pere Pérez (ROGUE AND GAMBIT) join forces to bring you…X-MEN DISASSEMBLED?!",
-    "thumbnailUrl": "https://cdn.marvel.com/u/prod/marvel/i/mg/f/20/5be370edc8ae1/clean.jpg"
-  },
-  {
-    "id": 10,
-    "title": "Mighty Thor (2015) #1",
-    "author": "Jason Aaron ",
-    "publication-year": "November 18, 2015",
-    "description": "When DR. JANE FOSTER lifts the mystic hammer Mjolnir, she is transformed into the Goddess of Thunder, THE MIGHTY THOR! Her enemies are many, as Asgard descends further into chaos and war threatens to spread throughout the Ten Realms. Yet her greatest battle will be against a far more personal foe: the cancer that is killing her mortal form.",
-    "thumbnailUrl": "https://cdn.marvel.com/u/prod/marvel/i/mg/4/03/564ca85300754/clean.jpg"
-  },
-  {
-    "id": 11,
-    "title": "The Life of Captain Marvel (2018) #1",
-    "author": "JMargaret Stohl",
-    "publication-year": "July 18, 2018",
-    "description": "THE DEFINITIVE ORIGIN OF CAPTAIN MARVEL! Carol Danvers was just a girl from the Boston suburbs who loved science and the Red Sox until a chance encounter with a Kree hero gave her incredible super-powers. Now, she's a leader in the Avengers and the commander of Alpha Flight. But what if there were more to the story? When crippling anxiety attacks put her on the sidelines in the middle of a fight, Carol finds herself reliving memories of a life she thought was far behind her. You can't outrun where you're from - and sometimes, you HAVE to go home again. But there are skeletons in Captain Marvel's closet - and what she discovers will change her entire world. Written by best-selling author Margaret Stohl and drawn by fan-favorite comics veteran Carlos Pacheco, this is the true origin of Captain Marvel.",
-    "thumbnailUrl": "https://cdn.marvel.com/u/prod/marvel/i/mg/3/a0/5b46743378ab5/clean.jpg"
-  },
-  {
-    "id": 12,
-    "title": "Jessica Jones - Marvel Digital Original (2018) #1",
-    "author": "Kelly Thompson ",
-    "publication-year": "July 18, 2018",
-    "description": "Issue #1: BLIND SPOT Part 1& 2! Jessica Jones was once the costumed super hero known as Jewel. She sucked at it. Now she’s a private investigator at her own firm, Alias Investigations. She sucks less at that. With the Purple Man gone, her relationship with her husband, Luke Cage, and their daughter, Danielle, is better than ever. But her past always comes knocking, and when a woman whose case she fumbled winds up dead on her office floor, Jessica goes from private investigator to prime suspect. Can she find the real killer and clear her name? A DOUBLE-SIZED Marvel Digital Original you don't want to miss!",
-    "thumbnailUrl": "https://cdn.marvel.com/u/prod/marvel/i/mg/5/a0/5b4f44b3123a4/clean.jpg"
-  },
-  {
-    "id": 13,
-    "title": "Infinity Wars Prime (2018) #1",
-    "author": "Gerry Duggan",
-    "publication-year": "July 25, 2018",
-    "description": "Trust us, Marvel Fans – before the INFINITY WARS begin to rage comes this shocking chapter of the cosmic saga that you will not want to miss! The ramifications of this issue will be felt throughout Infinity for years to come! We can say NO MORE!",
-    "thumbnailUrl": "https://cdn.marvel.com/u/prod/marvel/i/mg/5/f0/5b52272a8fa14/clean.jpg"
-  },
-  {
-    "id": 14,
-    "title": "Black Widow (2016) #1",
-    "author": "JMark Waid, Chris Samnee",
-    "publication-year": "March 02, 2016",
-    "description": "S.H.I.E.L.D.'S MOST WANTED! The Eisner Award-winning team of Mark Waid and Chris Samnee are taking Black Widow on the lam! Natasha has spent years gathering secrets, and when some of the darkest ones begin mysteriously going public, no one is safe. With her betrayed former confederates at S.H.I.E.L.D. on her heels and a lifetime of training and ingenuity at her disposal, Natasha's out for answers in a knock-down-drag-out tale of action and espionage! Hidden enemies, old friends and unusual allies collide, and all eyes are on Black Widow. The chase is on!",
-    "thumbnailUrl": "https://cdn.marvel.com/u/prod/marvel/i/mg/a/00/56d099ec970bd/clean.jpg"
-  },
-  {
-    "id": 15,
-    "title": "Cloak and Dagger: Marvel Digital Original - Shades of Gray (2018) #1",
-    "author": "Mahmud Asrar ",
-    "publication-year": "July 18, 2018",
-    "description": "A DOUBLE-SIZED MARVEL DIGITAL ORIGINAL! For years, Tyrone Johnson and Tandy Bowen were the super hero duo called CLOAK AND DAGGER -- waging a citywide war on drugs, organized crime and corporate greed. In recent years, their crusade has taken them across the globe, fighting alongside Spider-Man, The X-Men and even The Avengers, and though they've drifted apart, a dangerous threat from their past has resurfaced -- one that will force Cloak and Dagger to reunite and come to terms with their truest feelings for one another and the past they share! Plus, the murders Dagger has been investigating continue…with victims who look like they’ve had the life sucked out of them. (This MDO contains Cloak and Dagger (2018) #1-2 Digital Comics)",
-    "thumbnailUrl": "https://cdn.marvel.com/u/prod/marvel/i/mg/4/80/5b4f4788922f8/clean.jpg"
-  },
-  {
-    "id": 16,
-    "title": "Marvel Avengers Alliance (2016) #1",
-    "author": "Fabian Nicieza",
-    "publication-year": "March 17, 2016",
-    "description": "War has been declared on Earth by the Black Order…and the Avengers Alliance is the planet’s only hope for survival! But as the incursions between alternate dimensions increase, will they be enough to stave off the invasions? Be here for the beginning of this exclusive story, bridging the gap between the smash hit mobile game, Marvel: Avengers Alliance and the upcoming Marvel: Avengers Alliance 2!",
-    "thumbnailUrl": "https://cdn.marvel.com/u/prod/marvel/i/mg/9/40/56ba6507c5ad6/clean.jpg"
-  },
-  {
-    "id": 17,
-    "title": "Netflix Jessica Jones NYCC Special (2015) #1",
-    "author": "Brian Michael Bendis ",
-    "publication-year": "October 08, 2015",
-    "description": "Meet Jessica Jones in this exclusive preview to the Netflix original series. All episodes streaming Nov 20.",
-    "thumbnailUrl": "https://cdn.marvel.com/u/prod/marvel/i/mg/8/c0/5603ffa00e4f1/clean.jpg"
-  },
-  {
-    "id": 18,
-    "title": "Captain America featuring Road Force in ENDGAME (2015) #1",
-    "author": "Joe Simon and Jack Kirby ",
-    "publication-year": "March 26, 2015",
-    "description": "Captain America and Black Widow team up with Harley Davidson's elite motorcycle team, the Road Force, to battle IMMORTUS with the fate of the world on the line. As monsters pour out of Immortus's interdimensional portal the heroes must fight back the vicious horde and close the passageway before San Francisco is overrun. A NEW hero joins the fray as the mysterious, AGENT 1 makes his first ever appearance. Will this super team be enough to save the world?",
-    "thumbnailUrl": "https://cdn.marvel.com/u/prod/marvel/i/mg/9/10/55d343ca923ea/clean.jpg"
-  },
-  {
-    "id": 19,
-    "title": "Guardians of the Galaxy: Ozone Heroes (2017) #1",
-    "author": "Peter David",
-    "publication-year": "September 08, 2017",
-    "description": "When Star-Lord and the Guardians pursue Ego the Living Planet to Earth, they quickly learn that the planet is in trouble from more than just Ego’s wrath. Left to prevent the destruction of Earth, they get an assist from Iron Man and the experts in environmental research from the United Nations. Can they all come together in time to save the planet?",
-    "thumbnailUrl": "https://cdn.marvel.com/u/prod/marvel/i/mg/f/00/59b1b8c0eafa4/clean.jpg"
-  },
-  {
-    "id": 20,
-    "title": "Venom (2018) #1",
-    "author": "Donny Cates",
-    "publication-year": "May 09, 2018",
-    "description": "In the wake of S.H.I.E.L.D.'s collapse, an ancient and primordial evil has been awakened beneath the streets of New York, and with it, something equally evil has awakened in that most Wicked of Webslingers - VENOM! Still a Lethal Protector of the innocents in New York, this never-before-seen threat could force Venom to relinquish everything it holds dear - including Eddie Brock! Join two of the hottest creators in comics today, Donny Cates and Ryan Stegman, for a VENOM adventure a thousand years in the making!",
-    "thumbnailUrl": "https://cdn.marvel.com/u/prod/marvel/i/mg/8/a0/5aea3123880ca/clean.jpg"
+    {
+      "id": 1,
+      "title": "Captain America",
+      "author": "Joe Simon and Jack Kirby ",
+      "publicationyear": 1971,
+      "description": "Captain America, a comic-strip superhero created by writer Joe Simon and artist Jack Kirby for Timely (later Marvel) Comics, debuted in March 1941 in Captain America Comics no.",
+      "thumbnailUrl": "https://cdn.marvel.com/u/prod/marvel/i/mg/3/a0/5991fa03329b7/clean.jpg"
+    },
+  
+    {
+      "id": 2,
+      "title": "Marvel's Spider-Man 2 (2023) #1",
+      "author": "Christos Gage",
+      "publicationyear": "May 01, 2023",
+      "description": "In the lead up to events in Marvel's Spider-Man 2, Peter and Miles team up to face an all-new threat!",
+      "thumbnailUrl": "https://cdn.marvel.com/u/prod/marvel/i/mg/9/80/645577dc06dca/clean.jpg"
+    },
+    {
+      "id": 3,
+      "title": "The Vitals: True EMS Stories #0",
+      "author": "Sean Ryan",
+      "publicationyear": "June 01, 202",
+      "description": "Healthcare workers are on the frontlines during this difficult time. THE VITALS tells tales of some real heroes, the EMS teams, as they travel to high-risk environments in order to rescue those in urgent need.",
+      "thumbnailUrl": "https://cdn.marvel.com/u/prod/marvel/i/mg/3/30/609c24e82360b/clean.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Immortal Hulk (2018) #1",
+      "author": "Al Ewing ",
+      "publicationyear": "June 06, 2018",
+      "description": "The FIRST issue of the Immortal Hulk! Al Ewing and Joe Bennett's critically-acclaimed and best-selling Immortal Hulk series kicks off here with THE RETURN OF BRUCE BANNER! You know Bruce Banner. He's quiet, calm, never complains. He's a man who believes he can use the darkest elements of his personality to do good in the world. If someone were to shoot him in the head...all he'd do is die. But the horror lives deeper. A horror that refuses to die. When night falls something other than the man gets up again. The horror is the Immortal Hulk.",
+      "thumbnailUrl": "https://cdn.marvel.com/u/prod/marvel/i/mg/3/50/5b0f16d976240/clean.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Thor (2018) #1",
+      "author": "Jason Aaron ",
+      "publicationyear": "June 13, 2018",
+      "description": "JASON AARON & MIKE DEL MUNDO TAKE THE PRINCE OF ASGARD IN A WHOLE NEW DIRECTION! Thor Odinson has regained his mantle – and with it, a wild new world of trouble on his mighty hands! The artifacts of Asgard have been scattered across the earth, and to reclaim them, Thor will have to face some ugly truths. Like the production cost of hundreds of new hammers! And the Thunder God is going to need every last one of them if he’s going to stop the unstoppable Juggernaut. Jason Aaron takes the Prince of Asgard in a whole new direction with YOUNG GUN artist Mike Del Mundo joining him at the helm! And don’t miss the latest chapter of the King Thor saga with acclaimed BLACK BOLT artist Christian Ward, as the Thor of the far future encounters an old friend who’s undergone some startling changes.",
+      "thumbnailUrl": "https://cdn.marvel.com/u/prod/marvel/i/mg/6/20/5b17070d826eb/clean.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Black Panther (2018) #1",
+      "author": "Ta-Nehisi Coates",
+      "publicationyear": "May 23, 2018",
+      "description": "A bold new direction for the Black Panther! For years, T’Challa has fought off invaders from his homeland, protecting Wakanda from everything from meddling governments to long-lost gods. Now, he will discover that Wakanda is much bigger than he ever dreamed…Across the vast Multiverse lies an empire founded in T’Challa’s name. Readers caught a glimpse of it in MARVEL LEGACY #1. Now find out the truth behind the Intergalactic Empire of Wakanda! Ta-Nehisi Coates welcomes aboard fan-favorite artist Daniel Acuña for a Black Panther story unlike any other!",
+      "thumbnailUrl": "https://cdn.marvel.com/u/prod/marvel/i/mg/f/b0/5afc7ec776ea2/clean.jpg"
+    },
+    
+    {
+      "id": 7,
+      "title": "Shuri (2018) #1",
+      "author": "Nnedi Okorafor ",
+      "publicationyear": "October 17, 2018",
+      "description": "FOLLOWING IN THE FOOTSTEPS OF THE BLACK PANTHER! The world fell in love with her in the movie. Now, the Black Panther's techno-genius sister launches her own adventures - written by best-selling Afrofuturist author Nnedi Okorafor and drawn by Eisner-nominated artist Leonardo Romero! The Black Panther has disappeared, lost on a mission in space. And in his absence, everyone's looking at the next in line for the throne. But Shuri is happiest in a lab, surrounded by gadgets of her own creation. She'd rather be testing gauntlets than throwing them. But a nation without a leader is a vulnerable one - and Shuri may have to choose between Wakanda's welfare and her own.",
+      "thumbnailUrl": "https://cdn.marvel.com/u/prod/marvel/i/mg/7/20/5bbe6795328d7/clean.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Uncanny X-Men (1963) #101",
+      "author": "Chris Claremont",
+      "publicationyear": "October 01, 1976",
+      "description": "The X-Men are re-entering Earth's atmosphere aboard a crippled Starcore space shuttle with Jean Grey piloting the ship.",
+      "thumbnailUrl": "https://cdn.marvel.com/u/prod/marvel/i/mg/6/30/58b06d5a1c717/clean.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Uncanny X-Men (2018) #1",
+      "author": "Matthew Rosenberg, Kelly Thompson, Ed Brisson ",
+      "publicationyear": "November 14, 2018",
+      "description": "THE CHILDREN OF THE ATOM ARE BACK! New ongoing series kicking off with a 10-part weekly epic, the flagship X-Men series that started it all is back and better than ever! Starting with a mysterious and tragic disappearance, the X-Men are drawn into what might be…their final adventure?! X-Fan favorite writers Ed Brisson (EXTERMINATION), Matthew Rosenberg (PHOENIX RESURRECTION) and Kelly Thompson (MR. & MRS. X) and all-star artists Mahmud Asrar (X-MEN RED), R.B. Silva (X-MEN BLUE), Yildiray Cinar (WEAPON X) and Pere Pérez (ROGUE AND GAMBIT) join forces to bring you…X-MEN DISASSEMBLED?!",
+      "thumbnailUrl": "https://cdn.marvel.com/u/prod/marvel/i/mg/f/20/5be370edc8ae1/clean.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Mighty Thor (2015) #1",
+      "author": "Jason Aaron ",
+      "publicationyear": "November 18, 2015",
+      "description": "When DR. JANE FOSTER lifts the mystic hammer Mjolnir, she is transformed into the Goddess of Thunder, THE MIGHTY THOR! Her enemies are many, as Asgard descends further into chaos and war threatens to spread throughout the Ten Realms. Yet her greatest battle will be against a far more personal foe: the cancer that is killing her mortal form.",
+      "thumbnailUrl": "https://cdn.marvel.com/u/prod/marvel/i/mg/4/03/564ca85300754/clean.jpg"
+    },
+    {
+      "id": 11,
+      "title": "The Life of Captain Marvel (2018) #1",
+      "author": "JMargaret Stohl",
+      "publicationyear": "July 18, 2018",
+      "description": "THE DEFINITIVE ORIGIN OF CAPTAIN MARVEL! Carol Danvers was just a girl from the Boston suburbs who loved science and the Red Sox until a chance encounter with a Kree hero gave her incredible super-powers. Now, she's a leader in the Avengers and the commander of Alpha Flight. But what if there were more to the story? When crippling anxiety attacks put her on the sidelines in the middle of a fight, Carol finds herself reliving memories of a life she thought was far behind her. You can't outrun where you're from - and sometimes, you HAVE to go home again. But there are skeletons in Captain Marvel's closet - and what she discovers will change her entire world. Written by best-selling author Margaret Stohl and drawn by fan-favorite comics veteran Carlos Pacheco, this is the true origin of Captain Marvel.",
+      "thumbnailUrl": "https://cdn.marvel.com/u/prod/marvel/i/mg/3/a0/5b46743378ab5/clean.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Jessica Jones - Marvel Digital Original (2018) #1",
+      "author": "Kelly Thompson ",
+      "publicationyear": "July 18, 2018",
+      "description": "Issue #1: BLIND SPOT Part 1& 2! Jessica Jones was once the costumed super hero known as Jewel. She sucked at it. Now she’s a private investigator at her own firm, Alias Investigations. She sucks less at that. With the Purple Man gone, her relationship with her husband, Luke Cage, and their daughter, Danielle, is better than ever. But her past always comes knocking, and when a woman whose case she fumbled winds up dead on her office floor, Jessica goes from private investigator to prime suspect. Can she find the real killer and clear her name? A DOUBLE-SIZED Marvel Digital Original you don't want to miss!",
+      "thumbnailUrl": "https://cdn.marvel.com/u/prod/marvel/i/mg/5/a0/5b4f44b3123a4/clean.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Infinity Wars Prime (2018) #1",
+      "author": "Gerry Duggan",
+      "publicationyear": "July 25, 2018",
+      "description": "Trust us, Marvel Fans – before the INFINITY WARS begin to rage comes this shocking chapter of the cosmic saga that you will not want to miss! The ramifications of this issue will be felt throughout Infinity for years to come! We can say NO MORE!",
+      "thumbnailUrl": "https://cdn.marvel.com/u/prod/marvel/i/mg/5/f0/5b52272a8fa14/clean.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Black Widow (2016) #1",
+      "author": "JMark Waid, Chris Samnee",
+      "publicationyear": "March 02, 2016",
+      "description": "S.H.I.E.L.D.'S MOST WANTED! The Eisner Award-winning team of Mark Waid and Chris Samnee are taking Black Widow on the lam! Natasha has spent years gathering secrets, and when some of the darkest ones begin mysteriously going public, no one is safe. With her betrayed former confederates at S.H.I.E.L.D. on her heels and a lifetime of training and ingenuity at her disposal, Natasha's out for answers in a knock-down-drag-out tale of action and espionage! Hidden enemies, old friends and unusual allies collide, and all eyes are on Black Widow. The chase is on!",
+      "thumbnailUrl": "https://cdn.marvel.com/u/prod/marvel/i/mg/a/00/56d099ec970bd/clean.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Cloak and Dagger: Marvel Digital Original - Shades of Gray (2018) #1",
+      "author": "Mahmud Asrar ",
+      "publicationyear": "July 18, 2018",
+      "description": "A DOUBLE-SIZED MARVEL DIGITAL ORIGINAL! For years, Tyrone Johnson and Tandy Bowen were the super hero duo called CLOAK AND DAGGER -- waging a citywide war on drugs, organized crime and corporate greed. In recent years, their crusade has taken them across the globe, fighting alongside Spider-Man, The X-Men and even The Avengers, and though they've drifted apart, a dangerous threat from their past has resurfaced -- one that will force Cloak and Dagger to reunite and come to terms with their truest feelings for one another and the past they share! Plus, the murders Dagger has been investigating continue…with victims who look like they’ve had the life sucked out of them. (This MDO contains Cloak and Dagger (2018) #1-2 Digital Comics)",
+      "thumbnailUrl": "https://cdn.marvel.com/u/prod/marvel/i/mg/4/80/5b4f4788922f8/clean.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Marvel Avengers Alliance (2016) #1",
+      "author": "Fabian Nicieza",
+      "publicationyear": "March 17, 2016",
+      "description": "War has been declared on Earth by the Black Order…and the Avengers Alliance is the planet’s only hope for survival! But as the incursions between alternate dimensions increase, will they be enough to stave off the invasions? Be here for the beginning of this exclusive story, bridging the gap between the smash hit mobile game, Marvel: Avengers Alliance and the upcoming Marvel: Avengers Alliance 2!",
+      "thumbnailUrl": "https://cdn.marvel.com/u/prod/marvel/i/mg/9/40/56ba6507c5ad6/clean.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Netflix Jessica Jones NYCC Special (2015) #1",
+      "author": "Brian Michael Bendis ",
+      "publicationyear": "October 08, 2015",
+      "description": "Meet Jessica Jones in this exclusive preview to the Netflix original series. All episodes streaming Nov 20.",
+      "thumbnailUrl": "https://cdn.marvel.com/u/prod/marvel/i/mg/8/c0/5603ffa00e4f1/clean.jpg"
+    },
+    {
+      "id": 18,
+      "title": "Captain America featuring Road Force in ENDGAME (2015) #1",
+      "author": "Joe Simon and Jack Kirby ",
+      "publicationyear": "March 26, 2015",
+      "description": "Captain America and Black Widow team up with Harley Davidson's elite motorcycle team, the Road Force, to battle IMMORTUS with the fate of the world on the line. As monsters pour out of Immortus's interdimensional portal the heroes must fight back the vicious horde and close the passageway before San Francisco is overrun. A NEW hero joins the fray as the mysterious, AGENT 1 makes his first ever appearance. Will this super team be enough to save the world?",
+      "thumbnailUrl": "https://cdn.marvel.com/u/prod/marvel/i/mg/9/10/55d343ca923ea/clean.jpg"
+    },
+    {
+      "id": 19,
+      "title": "Guardians of the Galaxy: Ozone Heroes (2017) #1",
+      "author": "Peter David",
+      "publicationyear": "September 08, 2017",
+      "description": "When Star-Lord and the Guardians pursue Ego the Living Planet to Earth, they quickly learn that the planet is in trouble from more than just Ego’s wrath. Left to prevent the destruction of Earth, they get an assist from Iron Man and the experts in environmental research from the United Nations. Can they all come together in time to save the planet?",
+      "thumbnailUrl": "https://cdn.marvel.com/u/prod/marvel/i/mg/f/00/59b1b8c0eafa4/clean.jpg"
+    },
+    {
+      "id": 20,
+      "title": "Venom (2018) #1",
+      "author": "Donny Cates",
+      "publicationyear": "May 09, 2018",
+      "description": "In the wake of S.H.I.E.L.D.'s collapse, an ancient and primordial evil has been awakened beneath the streets of New York, and with it, something equally evil has awakened in that most Wicked of Webslingers - VENOM! Still a Lethal Protector of the innocents in New York, this never-before-seen threat could force Venom to relinquish everything it holds dear - including Eddie Brock! Join two of the hottest creators in comics today, Donny Cates and Ryan Stegman, for a VENOM adventure a thousand years in the making!",
+      "thumbnailUrl": "https://cdn.marvel.com/u/prod/marvel/i/mg/8/a0/5aea3123880ca/clean.jpg"
+    }
+  ]
   }
-]

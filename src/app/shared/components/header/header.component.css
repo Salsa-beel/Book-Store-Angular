@@ -6,11 +6,17 @@
    background-repeat: no-repeat;
 } */
 
+  
+a .navbar-brand{
+   background-color: #d93931;
+}
 
 a{
    color: white;
    font-weight: 400;
    font-size: larger;
+   text-shadow: 2px 1px yellow;
+
    
 }
 
