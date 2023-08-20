@@ -1,7 +1,6 @@
 import { Injectable, Input } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { DetailsofbooksComponent } from '../components/detailsofbooks/detailsofbooks.component';
-import { Book } from 'src/app/entities/book.entity';
 import { BooksModule } from '../books.module';
 import { Observable } from 'rxjs';
 
