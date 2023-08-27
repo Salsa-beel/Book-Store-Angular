@@ -4,13 +4,15 @@ import { HeaderComponent } from './components/header/header.component';
 import { RouterModule } from '@angular/router';
 import { HttpClient, HttpClientModule } from '@angular/common/http';
 import { FooterComponent } from './components/footer/footer.component';
+import { NavbarComponent } from './components/navbar/navbar.component';
 
 
 
 @NgModule({
   declarations: [
     HeaderComponent,
-    FooterComponent
+    FooterComponent,
+    NavbarComponent
   ],
   imports: [
     CommonModule,
@@ -20,7 +22,8 @@ import { FooterComponent } from './components/footer/footer.component';
 
   exports:[
     HeaderComponent,
-    FooterComponent // lazm a3mel exprot 3ashan ashof el component da bara el module.
+    FooterComponent,
+    NavbarComponent // lazm a3mel exprot 3ashan ashof el component da bara el module.
   ]
    
 })

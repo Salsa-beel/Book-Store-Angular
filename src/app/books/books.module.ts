@@ -10,19 +10,17 @@ import { AboutUsComponent } from '../about-us/about-us.component';
 
 
 
+
 @NgModule({
   declarations: [
     ListofbooksComponent,
     DetailsofbooksComponent,
     BreakingNewsComponent,
     LocationComponent,
-    
-    
+    AboutUsComponent,
   
-
-    
-    
   ],
+
   imports: [
     CommonModule,
     NgxPaginationModule,

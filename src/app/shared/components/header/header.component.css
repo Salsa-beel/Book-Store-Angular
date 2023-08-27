@@ -6,16 +6,20 @@
    background-repeat: no-repeat;
 } */
 
-  
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap');
+
+
 a .navbar-brand{
    background-color: #d93931;
+   
 }
 
 a{
-   color: white;
+   color: rgb(196, 68, 68);
+   font-family: 'Black Ops One', cursive;
    font-weight: 400;
-   font-size: larger;
-   text-shadow: 2px 1px yellow;
+   font-size: 50px;
+   text-shadow: -1px 1px rgb(81, 45, 227);
 
    
 }

@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap');
+
+
+a {
+   background-color: #090909;
+   
+}
+
+a{
+   color: rgb(241, 238, 238);
+   font-family: 'Black Ops One', cursive;
+   font-weight: 400;
+   font-size: 25px;
+   text-shadow: -1px 1px rgb(1, 0, 3);
+
+   
+}
+
+a:hover{
+    color:#cb2828;
+ 
+ }
+ 

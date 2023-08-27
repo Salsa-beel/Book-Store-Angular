@@ -3,6 +3,7 @@ img{
   animation-name: rotate;
   animation-duration: 0.6s;
   animation-delay: 0s;
+  
 }
 
 @keyframes rotate {
