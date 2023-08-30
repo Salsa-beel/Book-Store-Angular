@@ -11,13 +11,13 @@ a{
    font-family: 'Black Ops One', cursive;
    font-weight: 400;
    font-size: 25px;
-   text-shadow: -1px 1px rgb(1, 0, 3);
+   text-shadow: 1px 2px rgb(53, 42, 145);
 
    
 }
 
 a:hover{
-    color:#cb2828;
+    color:#d93931;
  
  }
  

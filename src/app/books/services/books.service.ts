@@ -13,20 +13,20 @@ export class BooksService {
 
   baseapi = 'http://localhost:3000/';
 
-  constructor(private httpClient: HttpClient) { }
+  constructor(private http: HttpClient) { }
 
   getpagebooks(page: number) {
 
-    return this.httpClient.get('http://localhost:3000/' + '?page=' + page);
+    return this.http.get('http://localhost:3000/' + '?page=' + page);
   }
 
   getAllBooks() {
-    return this.httpClient.get(this.baseapi + 'books');
+    return this.http.get(this.baseapi + 'books');
   }
 
   //Fetch product by id
   getBookById(id: any) {
-    return this.httpClient.get(this.baseapi + 'books/' + id)
+    return this.http.get(this.baseapi + 'books/' + id)
   }
 
 
